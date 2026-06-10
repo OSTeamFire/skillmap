@@ -4,20 +4,24 @@
 #include <unordered_set>
 #include <string>
 #include <mutex>
+#include <condition_variable>
 
 class UrlQueue {
 public:
-    // Agrega una URL si no ha sido visitada antes
     void push(const std::string& url);
-
-    // Saca y retorna la siguiente URL. Retorna "" si está vacía
+    
+    // Bloquea el worker hasta que haya una URL disponible
     std::string pop();
-
-    // Retorna true si no hay URLs pendientes
+    
     bool isEmpty();
+    
+    // Despierta todos los workers para que puedan terminar
+    void shutdown();
 
 private:
     std::queue<std::string> pending;
     std::unordered_set<std::string> visited;
     std::mutex mtx;
+    std::condition_variable cv;
+    bool done = false;
 };
