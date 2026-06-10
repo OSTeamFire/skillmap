@@ -5,15 +5,13 @@
 struct FetchResult {
     std::string html;
     bool bloqueado;
-    std::string error; // "" si no hubo error
+    std::string error;
 };
 
 class Fetcher {
 public:
-    // Descarga la página y retorna el resultado
-    FetchResult fetch(const std::string& url);
+    FetchResult fetch(const std::string& url) const;
 
 private:
-    // Interpreta el código HTTP y determina si fue bloqueado
-    bool isBloqueado(int httpCode);
+    bool isBloqueado(int httpCode) const;
 };
