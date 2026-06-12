@@ -188,3 +188,7 @@ El crawler no verifica `robots.txt` por decisión de diseño (scope del proyecto
 
 Universidad de Antioquia — Facultad de Ingeniería  
 Curso de Sistemas Operativos y Laboratorio — 2026
+
+## Licencia
+
+MIT — ver [LICENSE](LICENSE).
