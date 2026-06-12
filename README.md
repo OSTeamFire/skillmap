@@ -105,7 +105,7 @@ pip3 install -r requirements.txt
 docker compose up
 
 # Personalizado con variables de entorno
-SEED_URL="https://co.computrabajo.com/trabajo-de-programador" TIEMPO=120 WORKERS=6 docker compose up
+SEED_URL="https://www.getonbrd.com/empleos-ingeniero-de-sistemas" TIEMPO=120 WORKERS=6 docker compose up
 ```
 
 ### Local
