@@ -111,7 +111,7 @@ SEED_URL="https://www.getonbrd.com/empleos-ingeniero-de-sistemas" TIEMPO=120 WOR
 ### Local
 
 ```bash
-python3 main.py --url "https://co.computrabajo.com/trabajo-de-programador" --tiempo 60
+python3 main.py --url "https://www.getonbrd.com/empleos-ingeniero-de-sistemas" --tiempo 60
 ```
 
 Los resultados quedan en `output/` en ambos casos.
