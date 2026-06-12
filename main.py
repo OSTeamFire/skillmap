@@ -139,7 +139,10 @@ def main() -> None:
     except KeyboardInterrupt:
         pass
     finally:
-        proc.wait(timeout=5)
+        try:
+            proc.wait(timeout=5)
+        except subprocess.TimeoutExpired:
+            proc.kill()
 
     logger.info(
         "Crawler finalizado. Total recibidas: %d", paginas_recibidas
