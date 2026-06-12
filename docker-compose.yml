@@ -4,5 +4,6 @@ services:
     volumes:
       - ./output:/app/output
     command: >
-      --url "https://co.computrabajo.com/trabajo-de-ingeniero-de-sistemas#9C23B396834A6AF261373E686DCF3405"
-      --tiempo 60
+      --url "${SEED_URL:-https://co.computrabajo.com/trabajo-de-programador}"
+      --tiempo ${TIEMPO:-60}
+      --workers ${WORKERS:-4}

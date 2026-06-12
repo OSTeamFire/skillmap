@@ -89,8 +89,12 @@ _ALIAS: dict[str, str] = {
 }
 
 # Habilidades cortas que generan muchos falsos positivos si no se delimitan bien
-_HABILIDADES_ESTRICTAS: frozenset[str] = frozenset({"r", "c", "go", "c++", "c#"})
-
+_HABILIDADES_ESTRICTAS: frozenset[str] = frozenset({
+    "r", "c", "go", "c++", "c#",
+    "ios", "sql", "git", "aws", "gcp",
+    "soc", "ui", "ux", "api", "sdk",
+    "net", "vue", "sap", "erp", "crm",
+})
 
 def _cargar_catalogo(ruta: Path | None = None) -> list[str]:
     if ruta is None:
@@ -172,7 +176,7 @@ def _detectar_habilidades(texto: str, catalogo: list[str]) -> list[str]:
 
         if habilidad in _HABILIDADES_ESTRICTAS:
             patron = re.compile(
-                r"(?<![A-Za-z0-9_.+#])" + escaped + r"(?![A-Za-z0-9_.+#])",
+                r"(?<![A-Za-z0-9_.+#áéíóúüñÁÉÍÓÚÜÑ])" + escaped + r"(?![A-Za-z0-9_.+#áéíóúüñÁÉÍÓÚÜÑ])",
                 re.IGNORECASE,
             )
         else:
@@ -180,7 +184,7 @@ def _detectar_habilidades(texto: str, catalogo: list[str]) -> list[str]:
                 patron = re.compile(r"\b" + escaped + r"\b", re.IGNORECASE)
             except re.error:
                 patron = re.compile(
-                    r"(?<![A-Za-z0-9_])" + escaped + r"(?![A-Za-z0-9_])",
+                    r"(?<![A-Za-z0-9_.+#áéíóúüñÁÉÍÓÚÜÑ])" + escaped + r"(?![A-Za-z0-9_.+#áéíóúüñÁÉÍÓÚÜÑ])",
                     re.IGNORECASE,
                 )
 

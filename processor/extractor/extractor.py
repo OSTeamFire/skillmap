@@ -100,6 +100,9 @@ def extraer(pagina: PaginaCruda) -> TextoExtraido:
     for tag in soup(_TAGS_RUIDO):
         tag.decompose()
 
+    for tag in soup.find_all("div", class_="login-buttons"):
+        tag.decompose()
+
     titulo = _normalizar(_primer_selector(soup, _SEL_TITULO))
     cuerpo  = _normalizar(_primer_selector(soup, _SEL_CUERPO))
 

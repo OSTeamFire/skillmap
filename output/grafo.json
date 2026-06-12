@@ -1,0 +1,6362 @@
+{
+  "nodos": [
+    {
+      "id": "agile",
+      "frecuencia": 95
+    },
+    {
+      "id": "airflow",
+      "frecuencia": 2
+    },
+    {
+      "id": "android",
+      "frecuencia": 32
+    },
+    {
+      "id": "angular",
+      "frecuencia": 40
+    },
+    {
+      "id": "ansible",
+      "frecuencia": 4
+    },
+    {
+      "id": "api rest",
+      "frecuencia": 5
+    },
+    {
+      "id": "aws",
+      "frecuencia": 125
+    },
+    {
+      "id": "azure",
+      "frecuencia": 42
+    },
+    {
+      "id": "bash",
+      "frecuencia": 7
+    },
+    {
+      "id": "c#",
+      "frecuencia": 13
+    },
+    {
+      "id": "ci/cd",
+      "frecuencia": 103
+    },
+    {
+      "id": "ciberseguridad",
+      "frecuencia": 32
+    },
+    {
+      "id": "computer vision",
+      "frecuencia": 4
+    },
+    {
+      "id": "css",
+      "frecuencia": 6
+    },
+    {
+      "id": "datadog",
+      "frecuencia": 4
+    },
+    {
+      "id": "deep learning",
+      "frecuencia": 3
+    },
+    {
+      "id": "devops",
+      "frecuencia": 122
+    },
+    {
+      "id": "django",
+      "frecuencia": 24
+    },
+    {
+      "id": "docker",
+      "frecuencia": 86
+    },
+    {
+      "id": "dynamodb",
+      "frecuencia": 3
+    },
+    {
+      "id": "elasticsearch",
+      "frecuencia": 4
+    },
+    {
+      "id": "express",
+      "frecuencia": 3
+    },
+    {
+      "id": "fastapi",
+      "frecuencia": 2
+    },
+    {
+      "id": "flask",
+      "frecuencia": 2
+    },
+    {
+      "id": "flutter",
+      "frecuencia": 19
+    },
+    {
+      "id": "git",
+      "frecuencia": 88
+    },
+    {
+      "id": "github",
+      "frecuencia": 99
+    },
+    {
+      "id": "github actions",
+      "frecuencia": 5
+    },
+    {
+      "id": "gitlab",
+      "frecuencia": 15
+    },
+    {
+      "id": "gitlab ci",
+      "frecuencia": 3
+    },
+    {
+      "id": "go",
+      "frecuencia": 46
+    },
+    {
+      "id": "google cloud",
+      "frecuencia": 6
+    },
+    {
+      "id": "grafana",
+      "frecuencia": 8
+    },
+    {
+      "id": "graphql",
+      "frecuencia": 4
+    },
+    {
+      "id": "heroku",
+      "frecuencia": 3
+    },
+    {
+      "id": "html",
+      "frecuencia": 10
+    },
+    {
+      "id": "ionic",
+      "frecuencia": 7
+    },
+    {
+      "id": "ios",
+      "frecuencia": 23
+    },
+    {
+      "id": "java",
+      "frecuencia": 82
+    },
+    {
+      "id": "javascript",
+      "frecuencia": 86
+    },
+    {
+      "id": "jenkins",
+      "frecuencia": 9
+    },
+    {
+      "id": "jira",
+      "frecuencia": 24
+    },
+    {
+      "id": "jquery",
+      "frecuencia": 2
+    },
+    {
+      "id": "kafka",
+      "frecuencia": 2
+    },
+    {
+      "id": "kanban",
+      "frecuencia": 34
+    },
+    {
+      "id": "kotlin",
+      "frecuencia": 10
+    },
+    {
+      "id": "kubernetes",
+      "frecuencia": 83
+    },
+    {
+      "id": "langchain",
+      "frecuencia": 8
+    },
+    {
+      "id": "looker",
+      "frecuencia": 6
+    },
+    {
+      "id": "machine learning",
+      "frecuencia": 84
+    },
+    {
+      "id": "microservices",
+      "frecuencia": 63
+    },
+    {
+      "id": "mlops",
+      "frecuencia": 2
+    },
+    {
+      "id": "mongodb",
+      "frecuencia": 3
+    },
+    {
+      "id": "mysql",
+      "frecuencia": 6
+    },
+    {
+      "id": "nestjs",
+      "frecuencia": 2
+    },
+    {
+      "id": "next.js",
+      "frecuencia": 6
+    },
+    {
+      "id": "nlp",
+      "frecuencia": 3
+    },
+    {
+      "id": "node.js",
+      "frecuencia": 73
+    },
+    {
+      "id": "numpy",
+      "frecuencia": 4
+    },
+    {
+      "id": "oauth",
+      "frecuencia": 3
+    },
+    {
+      "id": "oracle",
+      "frecuencia": 18
+    },
+    {
+      "id": "owasp",
+      "frecuencia": 5
+    },
+    {
+      "id": "pandas",
+      "frecuencia": 6
+    },
+    {
+      "id": "pentesting",
+      "frecuencia": 3
+    },
+    {
+      "id": "phoenix",
+      "frecuencia": 2
+    },
+    {
+      "id": "php",
+      "frecuencia": 10
+    },
+    {
+      "id": "postgresql",
+      "frecuencia": 67
+    },
+    {
+      "id": "power bi",
+      "frecuencia": 21
+    },
+    {
+      "id": "prometheus",
+      "frecuencia": 7
+    },
+    {
+      "id": "python",
+      "frecuencia": 132
+    },
+    {
+      "id": "pytorch",
+      "frecuencia": 7
+    },
+    {
+      "id": "rails",
+      "frecuencia": 10
+    },
+    {
+      "id": "react",
+      "frecuencia": 80
+    },
+    {
+      "id": "react native",
+      "frecuencia": 22
+    },
+    {
+      "id": "ruby",
+      "frecuencia": 15
+    },
+    {
+      "id": "scikit-learn",
+      "frecuencia": 4
+    },
+    {
+      "id": "scrum",
+      "frecuencia": 27
+    },
+    {
+      "id": "siem",
+      "frecuencia": 5
+    },
+    {
+      "id": "soc",
+      "frecuencia": 6
+    },
+    {
+      "id": "solid",
+      "frecuencia": 6
+    },
+    {
+      "id": "spring",
+      "frecuencia": 31
+    },
+    {
+      "id": "spring boot",
+      "frecuencia": 30
+    },
+    {
+      "id": "sql",
+      "frecuencia": 114
+    },
+    {
+      "id": "swift",
+      "frecuencia": 15
+    },
+    {
+      "id": "tableau",
+      "frecuencia": 4
+    },
+    {
+      "id": "tailwind",
+      "frecuencia": 3
+    },
+    {
+      "id": "tdd",
+      "frecuencia": 2
+    },
+    {
+      "id": "tensorflow",
+      "frecuencia": 4
+    },
+    {
+      "id": "terraform",
+      "frecuencia": 14
+    },
+    {
+      "id": "typescript",
+      "frecuencia": 71
+    },
+    {
+      "id": "vue",
+      "frecuencia": 4
+    }
+  ],
+  "aristas": [
+    {
+      "fuente": "aws",
+      "destino": "python",
+      "peso": 94
+    },
+    {
+      "fuente": "aws",
+      "destino": "devops",
+      "peso": 89
+    },
+    {
+      "fuente": "python",
+      "destino": "sql",
+      "peso": 86
+    },
+    {
+      "fuente": "aws",
+      "destino": "ci/cd",
+      "peso": 81
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "devops",
+      "peso": 81
+    },
+    {
+      "fuente": "devops",
+      "destino": "python",
+      "peso": 81
+    },
+    {
+      "fuente": "aws",
+      "destino": "sql",
+      "peso": 80
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "python",
+      "peso": 78
+    },
+    {
+      "fuente": "devops",
+      "destino": "sql",
+      "peso": 78
+    },
+    {
+      "fuente": "javascript",
+      "destino": "python",
+      "peso": 74
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "docker",
+      "peso": 73
+    },
+    {
+      "fuente": "devops",
+      "destino": "kubernetes",
+      "peso": 73
+    },
+    {
+      "fuente": "docker",
+      "destino": "kubernetes",
+      "peso": 73
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "python",
+      "peso": 73
+    },
+    {
+      "fuente": "aws",
+      "destino": "docker",
+      "peso": 72
+    },
+    {
+      "fuente": "aws",
+      "destino": "git",
+      "peso": 71
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "git",
+      "peso": 71
+    },
+    {
+      "fuente": "git",
+      "destino": "python",
+      "peso": 71
+    },
+    {
+      "fuente": "aws",
+      "destino": "kubernetes",
+      "peso": 70
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "kubernetes",
+      "peso": 70
+    },
+    {
+      "fuente": "docker",
+      "destino": "python",
+      "peso": 70
+    },
+    {
+      "fuente": "agile",
+      "destino": "aws",
+      "peso": 69
+    },
+    {
+      "fuente": "devops",
+      "destino": "github",
+      "peso": 69
+    },
+    {
+      "fuente": "git",
+      "destino": "sql",
+      "peso": 69
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "github",
+      "peso": 68
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "react",
+      "peso": 68
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "sql",
+      "peso": 68
+    },
+    {
+      "fuente": "devops",
+      "destino": "git",
+      "peso": 68
+    },
+    {
+      "fuente": "github",
+      "destino": "python",
+      "peso": 68
+    },
+    {
+      "fuente": "javascript",
+      "destino": "react",
+      "peso": 68
+    },
+    {
+      "fuente": "python",
+      "destino": "react",
+      "peso": 68
+    },
+    {
+      "fuente": "aws",
+      "destino": "javascript",
+      "peso": 67
+    },
+    {
+      "fuente": "aws",
+      "destino": "node.js",
+      "peso": 67
+    },
+    {
+      "fuente": "devops",
+      "destino": "docker",
+      "peso": 67
+    },
+    {
+      "fuente": "devops",
+      "destino": "javascript",
+      "peso": 67
+    },
+    {
+      "fuente": "docker",
+      "destino": "sql",
+      "peso": 67
+    },
+    {
+      "fuente": "git",
+      "destino": "github",
+      "peso": 67
+    },
+    {
+      "fuente": "node.js",
+      "destino": "python",
+      "peso": 67
+    },
+    {
+      "fuente": "agile",
+      "destino": "devops",
+      "peso": 66
+    },
+    {
+      "fuente": "aws",
+      "destino": "machine learning",
+      "peso": 66
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "typescript",
+      "peso": 66
+    },
+    {
+      "fuente": "github",
+      "destino": "sql",
+      "peso": 66
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "python",
+      "peso": 66
+    },
+    {
+      "fuente": "agile",
+      "destino": "ci/cd",
+      "peso": 65
+    },
+    {
+      "fuente": "aws",
+      "destino": "github",
+      "peso": 65
+    },
+    {
+      "fuente": "aws",
+      "destino": "java",
+      "peso": 65
+    },
+    {
+      "fuente": "aws",
+      "destino": "postgresql",
+      "peso": 65
+    },
+    {
+      "fuente": "devops",
+      "destino": "java",
+      "peso": 65
+    },
+    {
+      "fuente": "git",
+      "destino": "react",
+      "peso": 65
+    },
+    {
+      "fuente": "java",
+      "destino": "python",
+      "peso": 65
+    },
+    {
+      "fuente": "javascript",
+      "destino": "sql",
+      "peso": 65
+    },
+    {
+      "fuente": "react",
+      "destino": "typescript",
+      "peso": 65
+    },
+    {
+      "fuente": "agile",
+      "destino": "git",
+      "peso": 64
+    },
+    {
+      "fuente": "aws",
+      "destino": "react",
+      "peso": 64
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "java",
+      "peso": 64
+    },
+    {
+      "fuente": "devops",
+      "destino": "node.js",
+      "peso": 64
+    },
+    {
+      "fuente": "javascript",
+      "destino": "node.js",
+      "peso": 64
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "sql",
+      "peso": 64
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "sql",
+      "peso": 64
+    },
+    {
+      "fuente": "node.js",
+      "destino": "react",
+      "peso": 64
+    },
+    {
+      "fuente": "aws",
+      "destino": "typescript",
+      "peso": 63
+    },
+    {
+      "fuente": "docker",
+      "destino": "git",
+      "peso": 63
+    },
+    {
+      "fuente": "docker",
+      "destino": "react",
+      "peso": 63
+    },
+    {
+      "fuente": "github",
+      "destino": "kubernetes",
+      "peso": 63
+    },
+    {
+      "fuente": "github",
+      "destino": "react",
+      "peso": 63
+    },
+    {
+      "fuente": "agile",
+      "destino": "machine learning",
+      "peso": 62
+    },
+    {
+      "fuente": "agile",
+      "destino": "python",
+      "peso": 62
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "javascript",
+      "peso": 62
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "machine learning",
+      "peso": 62
+    },
+    {
+      "fuente": "devops",
+      "destino": "react",
+      "peso": 62
+    },
+    {
+      "fuente": "docker",
+      "destino": "github",
+      "peso": 62
+    },
+    {
+      "fuente": "docker",
+      "destino": "node.js",
+      "peso": 62
+    },
+    {
+      "fuente": "docker",
+      "destino": "typescript",
+      "peso": 62
+    },
+    {
+      "fuente": "git",
+      "destino": "java",
+      "peso": 62
+    },
+    {
+      "fuente": "git",
+      "destino": "kubernetes",
+      "peso": 62
+    },
+    {
+      "fuente": "git",
+      "destino": "typescript",
+      "peso": 62
+    },
+    {
+      "fuente": "javascript",
+      "destino": "typescript",
+      "peso": 62
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "react",
+      "peso": 62
+    },
+    {
+      "fuente": "python",
+      "destino": "typescript",
+      "peso": 62
+    },
+    {
+      "fuente": "agile",
+      "destino": "github",
+      "peso": 61
+    },
+    {
+      "fuente": "agile",
+      "destino": "sql",
+      "peso": 61
+    },
+    {
+      "fuente": "devops",
+      "destino": "machine learning",
+      "peso": 61
+    },
+    {
+      "fuente": "docker",
+      "destino": "machine learning",
+      "peso": 61
+    },
+    {
+      "fuente": "git",
+      "destino": "javascript",
+      "peso": 61
+    },
+    {
+      "fuente": "github",
+      "destino": "javascript",
+      "peso": 61
+    },
+    {
+      "fuente": "github",
+      "destino": "node.js",
+      "peso": 61
+    },
+    {
+      "fuente": "github",
+      "destino": "typescript",
+      "peso": 61
+    },
+    {
+      "fuente": "java",
+      "destino": "node.js",
+      "peso": 61
+    },
+    {
+      "fuente": "java",
+      "destino": "react",
+      "peso": 61
+    },
+    {
+      "fuente": "javascript",
+      "destino": "machine learning",
+      "peso": 61
+    },
+    {
+      "fuente": "javascript",
+      "destino": "postgresql",
+      "peso": 61
+    },
+    {
+      "fuente": "node.js",
+      "destino": "sql",
+      "peso": 61
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "python",
+      "peso": 61
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "react",
+      "peso": 61
+    },
+    {
+      "fuente": "aws",
+      "destino": "microservices",
+      "peso": 60
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "node.js",
+      "peso": 60
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "postgresql",
+      "peso": 60
+    },
+    {
+      "fuente": "devops",
+      "destino": "typescript",
+      "peso": 60
+    },
+    {
+      "fuente": "docker",
+      "destino": "java",
+      "peso": 60
+    },
+    {
+      "fuente": "docker",
+      "destino": "javascript",
+      "peso": 60
+    },
+    {
+      "fuente": "github",
+      "destino": "machine learning",
+      "peso": 60
+    },
+    {
+      "fuente": "java",
+      "destino": "javascript",
+      "peso": 60
+    },
+    {
+      "fuente": "java",
+      "destino": "kubernetes",
+      "peso": 60
+    },
+    {
+      "fuente": "node.js",
+      "destino": "typescript",
+      "peso": 60
+    },
+    {
+      "fuente": "react",
+      "destino": "sql",
+      "peso": 60
+    },
+    {
+      "fuente": "sql",
+      "destino": "typescript",
+      "peso": 60
+    },
+    {
+      "fuente": "agile",
+      "destino": "java",
+      "peso": 59
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "microservices",
+      "peso": 59
+    },
+    {
+      "fuente": "git",
+      "destino": "node.js",
+      "peso": 59
+    },
+    {
+      "fuente": "java",
+      "destino": "sql",
+      "peso": 59
+    },
+    {
+      "fuente": "javascript",
+      "destino": "kubernetes",
+      "peso": 59
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "node.js",
+      "peso": 59
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "typescript",
+      "peso": 59
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "typescript",
+      "peso": 59
+    },
+    {
+      "fuente": "microservices",
+      "destino": "python",
+      "peso": 59
+    },
+    {
+      "fuente": "agile",
+      "destino": "javascript",
+      "peso": 58
+    },
+    {
+      "fuente": "agile",
+      "destino": "kubernetes",
+      "peso": 58
+    },
+    {
+      "fuente": "devops",
+      "destino": "microservices",
+      "peso": 58
+    },
+    {
+      "fuente": "docker",
+      "destino": "postgresql",
+      "peso": 58
+    },
+    {
+      "fuente": "git",
+      "destino": "machine learning",
+      "peso": 58
+    },
+    {
+      "fuente": "git",
+      "destino": "postgresql",
+      "peso": 58
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "microservices",
+      "peso": 58
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "node.js",
+      "peso": 58
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "react",
+      "peso": 58
+    },
+    {
+      "fuente": "node.js",
+      "destino": "postgresql",
+      "peso": 58
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "sql",
+      "peso": 58
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "typescript",
+      "peso": 58
+    },
+    {
+      "fuente": "agile",
+      "destino": "docker",
+      "peso": 57
+    },
+    {
+      "fuente": "agile",
+      "destino": "react",
+      "peso": 57
+    },
+    {
+      "fuente": "docker",
+      "destino": "microservices",
+      "peso": 57
+    },
+    {
+      "fuente": "github",
+      "destino": "microservices",
+      "peso": 57
+    },
+    {
+      "fuente": "github",
+      "destino": "postgresql",
+      "peso": 57
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "machine learning",
+      "peso": 57
+    },
+    {
+      "fuente": "agile",
+      "destino": "node.js",
+      "peso": 56
+    },
+    {
+      "fuente": "agile",
+      "destino": "typescript",
+      "peso": 56
+    },
+    {
+      "fuente": "devops",
+      "destino": "postgresql",
+      "peso": 56
+    },
+    {
+      "fuente": "git",
+      "destino": "microservices",
+      "peso": 56
+    },
+    {
+      "fuente": "github",
+      "destino": "java",
+      "peso": 56
+    },
+    {
+      "fuente": "java",
+      "destino": "microservices",
+      "peso": 56
+    },
+    {
+      "fuente": "javascript",
+      "destino": "microservices",
+      "peso": 56
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "postgresql",
+      "peso": 56
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "microservices",
+      "peso": 56
+    },
+    {
+      "fuente": "microservices",
+      "destino": "node.js",
+      "peso": 56
+    },
+    {
+      "fuente": "microservices",
+      "destino": "postgresql",
+      "peso": 56
+    },
+    {
+      "fuente": "microservices",
+      "destino": "react",
+      "peso": 56
+    },
+    {
+      "fuente": "microservices",
+      "destino": "sql",
+      "peso": 56
+    },
+    {
+      "fuente": "microservices",
+      "destino": "typescript",
+      "peso": 56
+    },
+    {
+      "fuente": "agile",
+      "destino": "microservices",
+      "peso": 55
+    },
+    {
+      "fuente": "agile",
+      "destino": "postgresql",
+      "peso": 55
+    },
+    {
+      "fuente": "java",
+      "destino": "postgresql",
+      "peso": 55
+    },
+    {
+      "fuente": "java",
+      "destino": "typescript",
+      "peso": 55
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "postgresql",
+      "peso": 55
+    },
+    {
+      "fuente": "java",
+      "destino": "machine learning",
+      "peso": 54
+    },
+    {
+      "fuente": "angular",
+      "destino": "java",
+      "peso": 34
+    },
+    {
+      "fuente": "angular",
+      "destino": "python",
+      "peso": 33
+    },
+    {
+      "fuente": "github",
+      "destino": "go",
+      "peso": 32
+    },
+    {
+      "fuente": "angular",
+      "destino": "react",
+      "peso": 31
+    },
+    {
+      "fuente": "java",
+      "destino": "spring",
+      "peso": 31
+    },
+    {
+      "fuente": "java",
+      "destino": "spring boot",
+      "peso": 30
+    },
+    {
+      "fuente": "spring",
+      "destino": "spring boot",
+      "peso": 30
+    },
+    {
+      "fuente": "angular",
+      "destino": "ci/cd",
+      "peso": 29
+    },
+    {
+      "fuente": "angular",
+      "destino": "devops",
+      "peso": 29
+    },
+    {
+      "fuente": "angular",
+      "destino": "git",
+      "peso": 28
+    },
+    {
+      "fuente": "angular",
+      "destino": "javascript",
+      "peso": 28
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "spring",
+      "peso": 28
+    },
+    {
+      "fuente": "angular",
+      "destino": "docker",
+      "peso": 27
+    },
+    {
+      "fuente": "angular",
+      "destino": "github",
+      "peso": 27
+    },
+    {
+      "fuente": "angular",
+      "destino": "kubernetes",
+      "peso": 27
+    },
+    {
+      "fuente": "angular",
+      "destino": "node.js",
+      "peso": 27
+    },
+    {
+      "fuente": "angular",
+      "destino": "sql",
+      "peso": 27
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "spring boot",
+      "peso": 27
+    },
+    {
+      "fuente": "angular",
+      "destino": "aws",
+      "peso": 26
+    },
+    {
+      "fuente": "azure",
+      "destino": "devops",
+      "peso": 26
+    },
+    {
+      "fuente": "aws",
+      "destino": "azure",
+      "peso": 26
+    },
+    {
+      "fuente": "angular",
+      "destino": "spring",
+      "peso": 25
+    },
+    {
+      "fuente": "git",
+      "destino": "spring",
+      "peso": 25
+    },
+    {
+      "fuente": "agile",
+      "destino": "angular",
+      "peso": 24
+    },
+    {
+      "fuente": "angular",
+      "destino": "spring boot",
+      "peso": 24
+    },
+    {
+      "fuente": "git",
+      "destino": "spring boot",
+      "peso": 24
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "spring",
+      "peso": 24
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "spring boot",
+      "peso": 24
+    },
+    {
+      "fuente": "react",
+      "destino": "spring",
+      "peso": 24
+    },
+    {
+      "fuente": "azure",
+      "destino": "python",
+      "peso": 24
+    },
+    {
+      "fuente": "android",
+      "destino": "java",
+      "peso": 23
+    },
+    {
+      "fuente": "angular",
+      "destino": "machine learning",
+      "peso": 23
+    },
+    {
+      "fuente": "angular",
+      "destino": "typescript",
+      "peso": 23
+    },
+    {
+      "fuente": "aws",
+      "destino": "spring",
+      "peso": 23
+    },
+    {
+      "fuente": "aws",
+      "destino": "spring boot",
+      "peso": 23
+    },
+    {
+      "fuente": "devops",
+      "destino": "spring",
+      "peso": 23
+    },
+    {
+      "fuente": "devops",
+      "destino": "spring boot",
+      "peso": 23
+    },
+    {
+      "fuente": "docker",
+      "destino": "spring",
+      "peso": 23
+    },
+    {
+      "fuente": "docker",
+      "destino": "spring boot",
+      "peso": 23
+    },
+    {
+      "fuente": "javascript",
+      "destino": "spring",
+      "peso": 23
+    },
+    {
+      "fuente": "javascript",
+      "destino": "spring boot",
+      "peso": 23
+    },
+    {
+      "fuente": "react",
+      "destino": "spring boot",
+      "peso": 23
+    },
+    {
+      "fuente": "agile",
+      "destino": "spring",
+      "peso": 22
+    },
+    {
+      "fuente": "agile",
+      "destino": "spring boot",
+      "peso": 22
+    },
+    {
+      "fuente": "angular",
+      "destino": "microservices",
+      "peso": 22
+    },
+    {
+      "fuente": "angular",
+      "destino": "postgresql",
+      "peso": 22
+    },
+    {
+      "fuente": "django",
+      "destino": "python",
+      "peso": 22
+    },
+    {
+      "fuente": "node.js",
+      "destino": "spring",
+      "peso": 22
+    },
+    {
+      "fuente": "node.js",
+      "destino": "spring boot",
+      "peso": 22
+    },
+    {
+      "fuente": "python",
+      "destino": "spring",
+      "peso": 22
+    },
+    {
+      "fuente": "python",
+      "destino": "spring boot",
+      "peso": 22
+    },
+    {
+      "fuente": "react",
+      "destino": "react native",
+      "peso": 22
+    },
+    {
+      "fuente": "spring",
+      "destino": "sql",
+      "peso": 22
+    },
+    {
+      "fuente": "azure",
+      "destino": "sql",
+      "peso": 22
+    },
+    {
+      "fuente": "github",
+      "destino": "spring",
+      "peso": 21
+    },
+    {
+      "fuente": "microservices",
+      "destino": "spring",
+      "peso": 21
+    },
+    {
+      "fuente": "microservices",
+      "destino": "spring boot",
+      "peso": 21
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "spring",
+      "peso": 21
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "spring boot",
+      "peso": 21
+    },
+    {
+      "fuente": "spring boot",
+      "destino": "sql",
+      "peso": 21
+    },
+    {
+      "fuente": "github",
+      "destino": "kanban",
+      "peso": 21
+    },
+    {
+      "fuente": "android",
+      "destino": "devops",
+      "peso": 20
+    },
+    {
+      "fuente": "github",
+      "destino": "spring boot",
+      "peso": 20
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "spring",
+      "peso": 20
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "spring boot",
+      "peso": 20
+    },
+    {
+      "fuente": "spring",
+      "destino": "typescript",
+      "peso": 20
+    },
+    {
+      "fuente": "spring boot",
+      "destino": "typescript",
+      "peso": 20
+    },
+    {
+      "fuente": "android",
+      "destino": "angular",
+      "peso": 19
+    },
+    {
+      "fuente": "android",
+      "destino": "ci/cd",
+      "peso": 19
+    },
+    {
+      "fuente": "android",
+      "destino": "ios",
+      "peso": 19
+    },
+    {
+      "fuente": "django",
+      "destino": "javascript",
+      "peso": 19
+    },
+    {
+      "fuente": "android",
+      "destino": "git",
+      "peso": 18
+    },
+    {
+      "fuente": "android",
+      "destino": "react",
+      "peso": 18
+    },
+    {
+      "fuente": "angular",
+      "destino": "flutter",
+      "peso": 18
+    },
+    {
+      "fuente": "aws",
+      "destino": "ciberseguridad",
+      "peso": 18
+    },
+    {
+      "fuente": "devops",
+      "destino": "ios",
+      "peso": 18
+    },
+    {
+      "fuente": "go",
+      "destino": "python",
+      "peso": 18
+    },
+    {
+      "fuente": "go",
+      "destino": "kanban",
+      "peso": 18
+    },
+    {
+      "fuente": "agile",
+      "destino": "ciberseguridad",
+      "peso": 17
+    },
+    {
+      "fuente": "android",
+      "destino": "python",
+      "peso": 17
+    },
+    {
+      "fuente": "django",
+      "destino": "react",
+      "peso": 17
+    },
+    {
+      "fuente": "flutter",
+      "destino": "java",
+      "peso": 17
+    },
+    {
+      "fuente": "flutter",
+      "destino": "spring",
+      "peso": 17
+    },
+    {
+      "fuente": "flutter",
+      "destino": "spring boot",
+      "peso": 17
+    },
+    {
+      "fuente": "ios",
+      "destino": "react",
+      "peso": 17
+    },
+    {
+      "fuente": "devops",
+      "destino": "go",
+      "peso": 17
+    },
+    {
+      "fuente": "go",
+      "destino": "java",
+      "peso": 17
+    },
+    {
+      "fuente": "go",
+      "destino": "javascript",
+      "peso": 17
+    },
+    {
+      "fuente": "go",
+      "destino": "react",
+      "peso": 17
+    },
+    {
+      "fuente": "agile",
+      "destino": "android",
+      "peso": 16
+    },
+    {
+      "fuente": "android",
+      "destino": "aws",
+      "peso": 16
+    },
+    {
+      "fuente": "android",
+      "destino": "spring",
+      "peso": 16
+    },
+    {
+      "fuente": "android",
+      "destino": "spring boot",
+      "peso": 16
+    },
+    {
+      "fuente": "angular",
+      "destino": "ios",
+      "peso": 16
+    },
+    {
+      "fuente": "angular",
+      "destino": "react native",
+      "peso": 16
+    },
+    {
+      "fuente": "aws",
+      "destino": "django",
+      "peso": 16
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "flutter",
+      "peso": 16
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "react native",
+      "peso": 16
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "python",
+      "peso": 16
+    },
+    {
+      "fuente": "django",
+      "destino": "postgresql",
+      "peso": 16
+    },
+    {
+      "fuente": "git",
+      "destino": "ios",
+      "peso": 16
+    },
+    {
+      "fuente": "ios",
+      "destino": "python",
+      "peso": 16
+    },
+    {
+      "fuente": "java",
+      "destino": "react native",
+      "peso": 16
+    },
+    {
+      "fuente": "javascript",
+      "destino": "react native",
+      "peso": 16
+    },
+    {
+      "fuente": "node.js",
+      "destino": "react native",
+      "peso": 16
+    },
+    {
+      "fuente": "go",
+      "destino": "node.js",
+      "peso": 16
+    },
+    {
+      "fuente": "azure",
+      "destino": "ci/cd",
+      "peso": 16
+    },
+    {
+      "fuente": "power bi",
+      "destino": "sql",
+      "peso": 16
+    },
+    {
+      "fuente": "android",
+      "destino": "docker",
+      "peso": 15
+    },
+    {
+      "fuente": "android",
+      "destino": "flutter",
+      "peso": 15
+    },
+    {
+      "fuente": "android",
+      "destino": "javascript",
+      "peso": 15
+    },
+    {
+      "fuente": "android",
+      "destino": "node.js",
+      "peso": 15
+    },
+    {
+      "fuente": "android",
+      "destino": "react native",
+      "peso": 15
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "ciberseguridad",
+      "peso": 15
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "ios",
+      "peso": 15
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "devops",
+      "peso": 15
+    },
+    {
+      "fuente": "devops",
+      "destino": "react native",
+      "peso": 15
+    },
+    {
+      "fuente": "django",
+      "destino": "docker",
+      "peso": 15
+    },
+    {
+      "fuente": "django",
+      "destino": "sql",
+      "peso": 15
+    },
+    {
+      "fuente": "ios",
+      "destino": "java",
+      "peso": 15
+    },
+    {
+      "fuente": "ios",
+      "destino": "javascript",
+      "peso": 15
+    },
+    {
+      "fuente": "ios",
+      "destino": "node.js",
+      "peso": 15
+    },
+    {
+      "fuente": "ios",
+      "destino": "react native",
+      "peso": 15
+    },
+    {
+      "fuente": "python",
+      "destino": "react native",
+      "peso": 15
+    },
+    {
+      "fuente": "react native",
+      "destino": "typescript",
+      "peso": 15
+    },
+    {
+      "fuente": "git",
+      "destino": "go",
+      "peso": 15
+    },
+    {
+      "fuente": "oracle",
+      "destino": "sql",
+      "peso": 15
+    },
+    {
+      "fuente": "agile",
+      "destino": "flutter",
+      "peso": 14
+    },
+    {
+      "fuente": "agile",
+      "destino": "ios",
+      "peso": 14
+    },
+    {
+      "fuente": "android",
+      "destino": "github",
+      "peso": 14
+    },
+    {
+      "fuente": "android",
+      "destino": "kubernetes",
+      "peso": 14
+    },
+    {
+      "fuente": "aws",
+      "destino": "flutter",
+      "peso": 14
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "django",
+      "peso": 14
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "java",
+      "peso": 14
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "kubernetes",
+      "peso": 14
+    },
+    {
+      "fuente": "django",
+      "destino": "java",
+      "peso": 14
+    },
+    {
+      "fuente": "django",
+      "destino": "typescript",
+      "peso": 14
+    },
+    {
+      "fuente": "docker",
+      "destino": "flutter",
+      "peso": 14
+    },
+    {
+      "fuente": "docker",
+      "destino": "react native",
+      "peso": 14
+    },
+    {
+      "fuente": "flutter",
+      "destino": "git",
+      "peso": 14
+    },
+    {
+      "fuente": "flutter",
+      "destino": "kubernetes",
+      "peso": 14
+    },
+    {
+      "fuente": "flutter",
+      "destino": "react",
+      "peso": 14
+    },
+    {
+      "fuente": "github",
+      "destino": "ios",
+      "peso": 14
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "react native",
+      "peso": 14
+    },
+    {
+      "fuente": "devops",
+      "destino": "scrum",
+      "peso": 14
+    },
+    {
+      "fuente": "agile",
+      "destino": "go",
+      "peso": 14
+    },
+    {
+      "fuente": "docker",
+      "destino": "go",
+      "peso": 14
+    },
+    {
+      "fuente": "go",
+      "destino": "kubernetes",
+      "peso": 14
+    },
+    {
+      "fuente": "power bi",
+      "destino": "python",
+      "peso": 14
+    },
+    {
+      "fuente": "android",
+      "destino": "microservices",
+      "peso": 13
+    },
+    {
+      "fuente": "android",
+      "destino": "sql",
+      "peso": 13
+    },
+    {
+      "fuente": "android",
+      "destino": "swift",
+      "peso": 13
+    },
+    {
+      "fuente": "android",
+      "destino": "typescript",
+      "peso": 13
+    },
+    {
+      "fuente": "angular",
+      "destino": "django",
+      "peso": 13
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "swift",
+      "peso": 13
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "git",
+      "peso": 13
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "github",
+      "peso": 13
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "javascript",
+      "peso": 13
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "machine learning",
+      "peso": 13
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "react",
+      "peso": 13
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "sql",
+      "peso": 13
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "typescript",
+      "peso": 13
+    },
+    {
+      "fuente": "django",
+      "destino": "git",
+      "peso": 13
+    },
+    {
+      "fuente": "django",
+      "destino": "node.js",
+      "peso": 13
+    },
+    {
+      "fuente": "flutter",
+      "destino": "ios",
+      "peso": 13
+    },
+    {
+      "fuente": "flutter",
+      "destino": "javascript",
+      "peso": 13
+    },
+    {
+      "fuente": "flutter",
+      "destino": "sql",
+      "peso": 13
+    },
+    {
+      "fuente": "git",
+      "destino": "react native",
+      "peso": 13
+    },
+    {
+      "fuente": "github",
+      "destino": "react native",
+      "peso": 13
+    },
+    {
+      "fuente": "ios",
+      "destino": "swift",
+      "peso": 13
+    },
+    {
+      "fuente": "ios",
+      "destino": "typescript",
+      "peso": 13
+    },
+    {
+      "fuente": "react",
+      "destino": "swift",
+      "peso": 13
+    },
+    {
+      "fuente": "angular",
+      "destino": "go",
+      "peso": 13
+    },
+    {
+      "fuente": "devops",
+      "destino": "gitlab",
+      "peso": 13
+    },
+    {
+      "fuente": "aws",
+      "destino": "go",
+      "peso": 13
+    },
+    {
+      "fuente": "kanban",
+      "destino": "scrum",
+      "peso": 13
+    },
+    {
+      "fuente": "aws",
+      "destino": "terraform",
+      "peso": 13
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "go",
+      "peso": 13
+    },
+    {
+      "fuente": "go",
+      "destino": "microservices",
+      "peso": 13
+    },
+    {
+      "fuente": "agile",
+      "destino": "react native",
+      "peso": 12
+    },
+    {
+      "fuente": "android",
+      "destino": "machine learning",
+      "peso": 12
+    },
+    {
+      "fuente": "angular",
+      "destino": "swift",
+      "peso": 12
+    },
+    {
+      "fuente": "aws",
+      "destino": "ios",
+      "peso": 12
+    },
+    {
+      "fuente": "aws",
+      "destino": "react native",
+      "peso": 12
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "docker",
+      "peso": 12
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "microservices",
+      "peso": 12
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "node.js",
+      "peso": 12
+    },
+    {
+      "fuente": "devops",
+      "destino": "django",
+      "peso": 12
+    },
+    {
+      "fuente": "devops",
+      "destino": "flutter",
+      "peso": 12
+    },
+    {
+      "fuente": "django",
+      "destino": "github",
+      "peso": 12
+    },
+    {
+      "fuente": "django",
+      "destino": "kubernetes",
+      "peso": 12
+    },
+    {
+      "fuente": "django",
+      "destino": "machine learning",
+      "peso": 12
+    },
+    {
+      "fuente": "django",
+      "destino": "microservices",
+      "peso": 12
+    },
+    {
+      "fuente": "docker",
+      "destino": "ios",
+      "peso": 12
+    },
+    {
+      "fuente": "docker",
+      "destino": "swift",
+      "peso": 12
+    },
+    {
+      "fuente": "flutter",
+      "destino": "github",
+      "peso": 12
+    },
+    {
+      "fuente": "flutter",
+      "destino": "machine learning",
+      "peso": 12
+    },
+    {
+      "fuente": "flutter",
+      "destino": "microservices",
+      "peso": 12
+    },
+    {
+      "fuente": "flutter",
+      "destino": "node.js",
+      "peso": 12
+    },
+    {
+      "fuente": "flutter",
+      "destino": "postgresql",
+      "peso": 12
+    },
+    {
+      "fuente": "flutter",
+      "destino": "python",
+      "peso": 12
+    },
+    {
+      "fuente": "flutter",
+      "destino": "react native",
+      "peso": 12
+    },
+    {
+      "fuente": "flutter",
+      "destino": "swift",
+      "peso": 12
+    },
+    {
+      "fuente": "flutter",
+      "destino": "typescript",
+      "peso": 12
+    },
+    {
+      "fuente": "ios",
+      "destino": "kubernetes",
+      "peso": 12
+    },
+    {
+      "fuente": "ios",
+      "destino": "machine learning",
+      "peso": 12
+    },
+    {
+      "fuente": "ios",
+      "destino": "microservices",
+      "peso": 12
+    },
+    {
+      "fuente": "ios",
+      "destino": "spring",
+      "peso": 12
+    },
+    {
+      "fuente": "ios",
+      "destino": "spring boot",
+      "peso": 12
+    },
+    {
+      "fuente": "ios",
+      "destino": "sql",
+      "peso": 12
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "swift",
+      "peso": 12
+    },
+    {
+      "fuente": "microservices",
+      "destino": "react native",
+      "peso": 12
+    },
+    {
+      "fuente": "react native",
+      "destino": "spring",
+      "peso": 12
+    },
+    {
+      "fuente": "react native",
+      "destino": "spring boot",
+      "peso": 12
+    },
+    {
+      "fuente": "react native",
+      "destino": "swift",
+      "peso": 12
+    },
+    {
+      "fuente": "python",
+      "destino": "ruby",
+      "peso": 12
+    },
+    {
+      "fuente": "agile",
+      "destino": "azure",
+      "peso": 12
+    },
+    {
+      "fuente": "azure",
+      "destino": "git",
+      "peso": 12
+    },
+    {
+      "fuente": "azure",
+      "destino": "kubernetes",
+      "peso": 12
+    },
+    {
+      "fuente": "agile",
+      "destino": "scrum",
+      "peso": 12
+    },
+    {
+      "fuente": "devops",
+      "destino": "terraform",
+      "peso": 12
+    },
+    {
+      "fuente": "go",
+      "destino": "machine learning",
+      "peso": 12
+    },
+    {
+      "fuente": "go",
+      "destino": "postgresql",
+      "peso": 12
+    },
+    {
+      "fuente": "go",
+      "destino": "sql",
+      "peso": 12
+    },
+    {
+      "fuente": "go",
+      "destino": "typescript",
+      "peso": 12
+    },
+    {
+      "fuente": "agile",
+      "destino": "django",
+      "peso": 11
+    },
+    {
+      "fuente": "agile",
+      "destino": "swift",
+      "peso": 11
+    },
+    {
+      "fuente": "android",
+      "destino": "postgresql",
+      "peso": 11
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "postgresql",
+      "peso": 11
+    },
+    {
+      "fuente": "django",
+      "destino": "spring",
+      "peso": 11
+    },
+    {
+      "fuente": "django",
+      "destino": "spring boot",
+      "peso": 11
+    },
+    {
+      "fuente": "git",
+      "destino": "swift",
+      "peso": 11
+    },
+    {
+      "fuente": "ios",
+      "destino": "postgresql",
+      "peso": 11
+    },
+    {
+      "fuente": "java",
+      "destino": "swift",
+      "peso": 11
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "react native",
+      "peso": 11
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "react native",
+      "peso": 11
+    },
+    {
+      "fuente": "react native",
+      "destino": "sql",
+      "peso": 11
+    },
+    {
+      "fuente": "spring",
+      "destino": "swift",
+      "peso": 11
+    },
+    {
+      "fuente": "spring boot",
+      "destino": "swift",
+      "peso": 11
+    },
+    {
+      "fuente": "react",
+      "destino": "ruby",
+      "peso": 11
+    },
+    {
+      "fuente": "azure",
+      "destino": "docker",
+      "peso": 11
+    },
+    {
+      "fuente": "aws",
+      "destino": "oracle",
+      "peso": 11
+    },
+    {
+      "fuente": "aws",
+      "destino": "swift",
+      "peso": 10
+    },
+    {
+      "fuente": "devops",
+      "destino": "swift",
+      "peso": 10
+    },
+    {
+      "fuente": "django",
+      "destino": "react native",
+      "peso": 10
+    },
+    {
+      "fuente": "github",
+      "destino": "swift",
+      "peso": 10
+    },
+    {
+      "fuente": "javascript",
+      "destino": "swift",
+      "peso": 10
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "swift",
+      "peso": 10
+    },
+    {
+      "fuente": "microservices",
+      "destino": "swift",
+      "peso": 10
+    },
+    {
+      "fuente": "node.js",
+      "destino": "swift",
+      "peso": 10
+    },
+    {
+      "fuente": "python",
+      "destino": "swift",
+      "peso": 10
+    },
+    {
+      "fuente": "sql",
+      "destino": "swift",
+      "peso": 10
+    },
+    {
+      "fuente": "swift",
+      "destino": "typescript",
+      "peso": 10
+    },
+    {
+      "fuente": "c#",
+      "destino": "devops",
+      "peso": 10
+    },
+    {
+      "fuente": "c#",
+      "destino": "python",
+      "peso": 10
+    },
+    {
+      "fuente": "devops",
+      "destino": "ruby",
+      "peso": 10
+    },
+    {
+      "fuente": "javascript",
+      "destino": "ruby",
+      "peso": 10
+    },
+    {
+      "fuente": "azure",
+      "destino": "github",
+      "peso": 10
+    },
+    {
+      "fuente": "azure",
+      "destino": "java",
+      "peso": 10
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "kubernetes",
+      "peso": 10
+    },
+    {
+      "fuente": "azure",
+      "destino": "javascript",
+      "peso": 10
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "gitlab",
+      "peso": 10
+    },
+    {
+      "fuente": "azure",
+      "destino": "machine learning",
+      "peso": 10
+    },
+    {
+      "fuente": "rails",
+      "destino": "ruby",
+      "peso": 10
+    },
+    {
+      "fuente": "devops",
+      "destino": "oracle",
+      "peso": 10
+    },
+    {
+      "fuente": "android",
+      "destino": "kotlin",
+      "peso": 10
+    },
+    {
+      "fuente": "android",
+      "destino": "django",
+      "peso": 9
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "spring",
+      "peso": 9
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "spring boot",
+      "peso": 9
+    },
+    {
+      "fuente": "django",
+      "destino": "flutter",
+      "peso": 9
+    },
+    {
+      "fuente": "django",
+      "destino": "ios",
+      "peso": 9
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "swift",
+      "peso": 9
+    },
+    {
+      "fuente": "angular",
+      "destino": "c#",
+      "peso": 9
+    },
+    {
+      "fuente": "angular",
+      "destino": "ruby",
+      "peso": 9
+    },
+    {
+      "fuente": "c#",
+      "destino": "java",
+      "peso": 9
+    },
+    {
+      "fuente": "node.js",
+      "destino": "ruby",
+      "peso": 9
+    },
+    {
+      "fuente": "aws",
+      "destino": "gitlab",
+      "peso": 9
+    },
+    {
+      "fuente": "devops",
+      "destino": "jira",
+      "peso": 9
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "python",
+      "peso": 9
+    },
+    {
+      "fuente": "go",
+      "destino": "spring",
+      "peso": 9
+    },
+    {
+      "fuente": "go",
+      "destino": "spring boot",
+      "peso": 9
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "scrum",
+      "peso": 9
+    },
+    {
+      "fuente": "oracle",
+      "destino": "python",
+      "peso": 9
+    },
+    {
+      "fuente": "android",
+      "destino": "ciberseguridad",
+      "peso": 8
+    },
+    {
+      "fuente": "angular",
+      "destino": "ciberseguridad",
+      "peso": 8
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "django",
+      "peso": 8
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "flutter",
+      "peso": 8
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "ios",
+      "peso": 8
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "react native",
+      "peso": 8
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "swift",
+      "peso": 8
+    },
+    {
+      "fuente": "django",
+      "destino": "swift",
+      "peso": 8
+    },
+    {
+      "fuente": "c#",
+      "destino": "javascript",
+      "peso": 8
+    },
+    {
+      "fuente": "c#",
+      "destino": "node.js",
+      "peso": 8
+    },
+    {
+      "fuente": "c#",
+      "destino": "react",
+      "peso": 8
+    },
+    {
+      "fuente": "python",
+      "destino": "scrum",
+      "peso": 8
+    },
+    {
+      "fuente": "docker",
+      "destino": "gitlab",
+      "peso": 8
+    },
+    {
+      "fuente": "jira",
+      "destino": "scrum",
+      "peso": 8
+    },
+    {
+      "fuente": "python",
+      "destino": "terraform",
+      "peso": 8
+    },
+    {
+      "fuente": "git",
+      "destino": "scrum",
+      "peso": 8
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "terraform",
+      "peso": 8
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "jenkins",
+      "peso": 8
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "terraform",
+      "peso": 8
+    },
+    {
+      "fuente": "github",
+      "destino": "ruby",
+      "peso": 8
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "ruby",
+      "peso": 8
+    },
+    {
+      "fuente": "ruby",
+      "destino": "sql",
+      "peso": 8
+    },
+    {
+      "fuente": "aws",
+      "destino": "power bi",
+      "peso": 8
+    },
+    {
+      "fuente": "github",
+      "destino": "oracle",
+      "peso": 8
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "oracle",
+      "peso": 8
+    },
+    {
+      "fuente": "langchain",
+      "destino": "python",
+      "peso": 7
+    },
+    {
+      "fuente": "android",
+      "destino": "scrum",
+      "peso": 7
+    },
+    {
+      "fuente": "c#",
+      "destino": "go",
+      "peso": 7
+    },
+    {
+      "fuente": "go",
+      "destino": "ruby",
+      "peso": 7
+    },
+    {
+      "fuente": "ios",
+      "destino": "scrum",
+      "peso": 7
+    },
+    {
+      "fuente": "java",
+      "destino": "scrum",
+      "peso": 7
+    },
+    {
+      "fuente": "javascript",
+      "destino": "php",
+      "peso": 7
+    },
+    {
+      "fuente": "php",
+      "destino": "python",
+      "peso": 7
+    },
+    {
+      "fuente": "git",
+      "destino": "gitlab",
+      "peso": 7
+    },
+    {
+      "fuente": "github",
+      "destino": "gitlab",
+      "peso": 7
+    },
+    {
+      "fuente": "angular",
+      "destino": "ionic",
+      "peso": 7
+    },
+    {
+      "fuente": "docker",
+      "destino": "ionic",
+      "peso": 7
+    },
+    {
+      "fuente": "ionic",
+      "destino": "kubernetes",
+      "peso": 7
+    },
+    {
+      "fuente": "ionic",
+      "destino": "react",
+      "peso": 7
+    },
+    {
+      "fuente": "jira",
+      "destino": "python",
+      "peso": 7
+    },
+    {
+      "fuente": "devops",
+      "destino": "kanban",
+      "peso": 7
+    },
+    {
+      "fuente": "azure",
+      "destino": "postgresql",
+      "peso": 7
+    },
+    {
+      "fuente": "docker",
+      "destino": "terraform",
+      "peso": 7
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "ruby",
+      "peso": 7
+    },
+    {
+      "fuente": "aws",
+      "destino": "scrum",
+      "peso": 7
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "pytorch",
+      "peso": 7
+    },
+    {
+      "fuente": "python",
+      "destino": "pytorch",
+      "peso": 7
+    },
+    {
+      "fuente": "grafana",
+      "destino": "kubernetes",
+      "peso": 7
+    },
+    {
+      "fuente": "azure",
+      "destino": "power bi",
+      "peso": 7
+    },
+    {
+      "fuente": "aws",
+      "destino": "ruby",
+      "peso": 7
+    },
+    {
+      "fuente": "docker",
+      "destino": "ruby",
+      "peso": 7
+    },
+    {
+      "fuente": "git",
+      "destino": "ruby",
+      "peso": 7
+    },
+    {
+      "fuente": "c#",
+      "destino": "sql",
+      "peso": 7
+    },
+    {
+      "fuente": "github",
+      "destino": "rails",
+      "peso": 7
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "rails",
+      "peso": 7
+    },
+    {
+      "fuente": "rails",
+      "destino": "react",
+      "peso": 7
+    },
+    {
+      "fuente": "rails",
+      "destino": "sql",
+      "peso": 7
+    },
+    {
+      "fuente": "java",
+      "destino": "oracle",
+      "peso": 7
+    },
+    {
+      "fuente": "aws",
+      "destino": "c#",
+      "peso": 7
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "oracle",
+      "peso": 7
+    },
+    {
+      "fuente": "git",
+      "destino": "oracle",
+      "peso": 7
+    },
+    {
+      "fuente": "oracle",
+      "destino": "react",
+      "peso": 7
+    },
+    {
+      "fuente": "javascript",
+      "destino": "oracle",
+      "peso": 7
+    },
+    {
+      "fuente": "oracle",
+      "destino": "typescript",
+      "peso": 7
+    },
+    {
+      "fuente": "java",
+      "destino": "kotlin",
+      "peso": 7
+    },
+    {
+      "fuente": "python",
+      "destino": "rails",
+      "peso": 7
+    },
+    {
+      "fuente": "c#",
+      "destino": "ruby",
+      "peso": 6
+    },
+    {
+      "fuente": "go",
+      "destino": "php",
+      "peso": 6
+    },
+    {
+      "fuente": "java",
+      "destino": "php",
+      "peso": 6
+    },
+    {
+      "fuente": "java",
+      "destino": "ruby",
+      "peso": 6
+    },
+    {
+      "fuente": "javascript",
+      "destino": "scrum",
+      "peso": 6
+    },
+    {
+      "fuente": "react",
+      "destino": "scrum",
+      "peso": 6
+    },
+    {
+      "fuente": "azure",
+      "destino": "gitlab",
+      "peso": 6
+    },
+    {
+      "fuente": "aws",
+      "destino": "jira",
+      "peso": 6
+    },
+    {
+      "fuente": "azure",
+      "destino": "node.js",
+      "peso": 6
+    },
+    {
+      "fuente": "azure",
+      "destino": "react",
+      "peso": 6
+    },
+    {
+      "fuente": "devops",
+      "destino": "jenkins",
+      "peso": 6
+    },
+    {
+      "fuente": "ionic",
+      "destino": "java",
+      "peso": 6
+    },
+    {
+      "fuente": "ionic",
+      "destino": "spring",
+      "peso": 6
+    },
+    {
+      "fuente": "ionic",
+      "destino": "spring boot",
+      "peso": 6
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "sql",
+      "peso": 6
+    },
+    {
+      "fuente": "azure",
+      "destino": "scrum",
+      "peso": 6
+    },
+    {
+      "fuente": "jira",
+      "destino": "kanban",
+      "peso": 6
+    },
+    {
+      "fuente": "scrum",
+      "destino": "sql",
+      "peso": 6
+    },
+    {
+      "fuente": "bash",
+      "destino": "devops",
+      "peso": 6
+    },
+    {
+      "fuente": "bash",
+      "destino": "python",
+      "peso": 6
+    },
+    {
+      "fuente": "github",
+      "destino": "scrum",
+      "peso": 6
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "grafana",
+      "peso": 6
+    },
+    {
+      "fuente": "devops",
+      "destino": "prometheus",
+      "peso": 6
+    },
+    {
+      "fuente": "docker",
+      "destino": "grafana",
+      "peso": 6
+    },
+    {
+      "fuente": "grafana",
+      "destino": "prometheus",
+      "peso": 6
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "prometheus",
+      "peso": 6
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "next.js",
+      "peso": 6
+    },
+    {
+      "fuente": "next.js",
+      "destino": "react",
+      "peso": 6
+    },
+    {
+      "fuente": "agile",
+      "destino": "kanban",
+      "peso": 6
+    },
+    {
+      "fuente": "devops",
+      "destino": "power bi",
+      "peso": 6
+    },
+    {
+      "fuente": "github",
+      "destino": "power bi",
+      "peso": 6
+    },
+    {
+      "fuente": "looker",
+      "destino": "power bi",
+      "peso": 6
+    },
+    {
+      "fuente": "agile",
+      "destino": "ruby",
+      "peso": 6
+    },
+    {
+      "fuente": "aws",
+      "destino": "rails",
+      "peso": 6
+    },
+    {
+      "fuente": "docker",
+      "destino": "rails",
+      "peso": 6
+    },
+    {
+      "fuente": "git",
+      "destino": "rails",
+      "peso": 6
+    },
+    {
+      "fuente": "c#",
+      "destino": "docker",
+      "peso": 6
+    },
+    {
+      "fuente": "c#",
+      "destino": "github",
+      "peso": 6
+    },
+    {
+      "fuente": "c#",
+      "destino": "kubernetes",
+      "peso": 6
+    },
+    {
+      "fuente": "c#",
+      "destino": "ci/cd",
+      "peso": 6
+    },
+    {
+      "fuente": "pandas",
+      "destino": "python",
+      "peso": 6
+    },
+    {
+      "fuente": "pandas",
+      "destino": "sql",
+      "peso": 6
+    },
+    {
+      "fuente": "angular",
+      "destino": "kotlin",
+      "peso": 6
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "ionic",
+      "peso": 6
+    },
+    {
+      "fuente": "flutter",
+      "destino": "kotlin",
+      "peso": 6
+    },
+    {
+      "fuente": "agile",
+      "destino": "oracle",
+      "peso": 6
+    },
+    {
+      "fuente": "docker",
+      "destino": "oracle",
+      "peso": 6
+    },
+    {
+      "fuente": "oracle",
+      "destino": "postgresql",
+      "peso": 6
+    },
+    {
+      "fuente": "devops",
+      "destino": "rails",
+      "peso": 6
+    },
+    {
+      "fuente": "javascript",
+      "destino": "rails",
+      "peso": 6
+    },
+    {
+      "fuente": "ruby",
+      "destino": "typescript",
+      "peso": 6
+    },
+    {
+      "fuente": "android",
+      "destino": "php",
+      "peso": 5
+    },
+    {
+      "fuente": "angular",
+      "destino": "php",
+      "peso": 5
+    },
+    {
+      "fuente": "angular",
+      "destino": "scrum",
+      "peso": 5
+    },
+    {
+      "fuente": "c#",
+      "destino": "ios",
+      "peso": 5
+    },
+    {
+      "fuente": "c#",
+      "destino": "react native",
+      "peso": 5
+    },
+    {
+      "fuente": "c#",
+      "destino": "scrum",
+      "peso": 5
+    },
+    {
+      "fuente": "devops",
+      "destino": "php",
+      "peso": 5
+    },
+    {
+      "fuente": "go",
+      "destino": "ios",
+      "peso": 5
+    },
+    {
+      "fuente": "go",
+      "destino": "react native",
+      "peso": 5
+    },
+    {
+      "fuente": "ios",
+      "destino": "php",
+      "peso": 5
+    },
+    {
+      "fuente": "ios",
+      "destino": "ruby",
+      "peso": 5
+    },
+    {
+      "fuente": "java",
+      "destino": "solid",
+      "peso": 5
+    },
+    {
+      "fuente": "node.js",
+      "destino": "php",
+      "peso": 5
+    },
+    {
+      "fuente": "node.js",
+      "destino": "scrum",
+      "peso": 5
+    },
+    {
+      "fuente": "php",
+      "destino": "react",
+      "peso": 5
+    },
+    {
+      "fuente": "react native",
+      "destino": "ruby",
+      "peso": 5
+    },
+    {
+      "fuente": "react native",
+      "destino": "scrum",
+      "peso": 5
+    },
+    {
+      "fuente": "github",
+      "destino": "github actions",
+      "peso": 5
+    },
+    {
+      "fuente": "aws",
+      "destino": "ionic",
+      "peso": 5
+    },
+    {
+      "fuente": "azure",
+      "destino": "jenkins",
+      "peso": 5
+    },
+    {
+      "fuente": "azure",
+      "destino": "jira",
+      "peso": 5
+    },
+    {
+      "fuente": "devops",
+      "destino": "ionic",
+      "peso": 5
+    },
+    {
+      "fuente": "docker",
+      "destino": "jenkins",
+      "peso": 5
+    },
+    {
+      "fuente": "git",
+      "destino": "ionic",
+      "peso": 5
+    },
+    {
+      "fuente": "git",
+      "destino": "jira",
+      "peso": 5
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "jenkins",
+      "peso": 5
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "jira",
+      "peso": 5
+    },
+    {
+      "fuente": "ionic",
+      "destino": "javascript",
+      "peso": 5
+    },
+    {
+      "fuente": "ionic",
+      "destino": "node.js",
+      "peso": 5
+    },
+    {
+      "fuente": "ionic",
+      "destino": "python",
+      "peso": 5
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "kubernetes",
+      "peso": 5
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "python",
+      "peso": 5
+    },
+    {
+      "fuente": "jira",
+      "destino": "kubernetes",
+      "peso": 5
+    },
+    {
+      "fuente": "jira",
+      "destino": "sql",
+      "peso": 5
+    },
+    {
+      "fuente": "azure",
+      "destino": "terraform",
+      "peso": 5
+    },
+    {
+      "fuente": "microservices",
+      "destino": "ruby",
+      "peso": 5
+    },
+    {
+      "fuente": "aws",
+      "destino": "bash",
+      "peso": 5
+    },
+    {
+      "fuente": "aws",
+      "destino": "mysql",
+      "peso": 5
+    },
+    {
+      "fuente": "aws",
+      "destino": "pytorch",
+      "peso": 5
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "prometheus",
+      "peso": 5
+    },
+    {
+      "fuente": "devops",
+      "destino": "grafana",
+      "peso": 5
+    },
+    {
+      "fuente": "docker",
+      "destino": "prometheus",
+      "peso": 5
+    },
+    {
+      "fuente": "github",
+      "destino": "jenkins",
+      "peso": 5
+    },
+    {
+      "fuente": "bash",
+      "destino": "kubernetes",
+      "peso": 5
+    },
+    {
+      "fuente": "agile",
+      "destino": "rails",
+      "peso": 5
+    },
+    {
+      "fuente": "node.js",
+      "destino": "rails",
+      "peso": 5
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "siem",
+      "peso": 5
+    },
+    {
+      "fuente": "azure",
+      "destino": "typescript",
+      "peso": 5
+    },
+    {
+      "fuente": "agile",
+      "destino": "c#",
+      "peso": 5
+    },
+    {
+      "fuente": "angular",
+      "destino": "oracle",
+      "peso": 5
+    },
+    {
+      "fuente": "agile",
+      "destino": "jira",
+      "peso": 5
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "kanban",
+      "peso": 5
+    },
+    {
+      "fuente": "agile",
+      "destino": "power bi",
+      "peso": 5
+    },
+    {
+      "fuente": "android",
+      "destino": "ionic",
+      "peso": 5
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "kotlin",
+      "peso": 5
+    },
+    {
+      "fuente": "docker",
+      "destino": "kotlin",
+      "peso": 5
+    },
+    {
+      "fuente": "flutter",
+      "destino": "ionic",
+      "peso": 5
+    },
+    {
+      "fuente": "ionic",
+      "destino": "swift",
+      "peso": 5
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "spring",
+      "peso": 5
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "spring boot",
+      "peso": 5
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "swift",
+      "peso": 5
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "oracle",
+      "peso": 5
+    },
+    {
+      "fuente": "microservices",
+      "destino": "oracle",
+      "peso": 5
+    },
+    {
+      "fuente": "node.js",
+      "destino": "oracle",
+      "peso": 5
+    },
+    {
+      "fuente": "next.js",
+      "destino": "typescript",
+      "peso": 5
+    },
+    {
+      "fuente": "c#",
+      "destino": "machine learning",
+      "peso": 5
+    },
+    {
+      "fuente": "c#",
+      "destino": "microservices",
+      "peso": 5
+    },
+    {
+      "fuente": "angular",
+      "destino": "rails",
+      "peso": 5
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "rails",
+      "peso": 5
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "ruby",
+      "peso": 5
+    },
+    {
+      "fuente": "rails",
+      "destino": "typescript",
+      "peso": 5
+    },
+    {
+      "fuente": "android",
+      "destino": "go",
+      "peso": 4
+    },
+    {
+      "fuente": "android",
+      "destino": "ruby",
+      "peso": 4
+    },
+    {
+      "fuente": "android",
+      "destino": "solid",
+      "peso": 4
+    },
+    {
+      "fuente": "angular",
+      "destino": "solid",
+      "peso": 4
+    },
+    {
+      "fuente": "angular",
+      "destino": "vue",
+      "peso": 4
+    },
+    {
+      "fuente": "c#",
+      "destino": "php",
+      "peso": 4
+    },
+    {
+      "fuente": "go",
+      "destino": "solid",
+      "peso": 4
+    },
+    {
+      "fuente": "go",
+      "destino": "vue",
+      "peso": 4
+    },
+    {
+      "fuente": "php",
+      "destino": "ruby",
+      "peso": 4
+    },
+    {
+      "fuente": "php",
+      "destino": "scrum",
+      "peso": 4
+    },
+    {
+      "fuente": "python",
+      "destino": "vue",
+      "peso": 4
+    },
+    {
+      "fuente": "react",
+      "destino": "vue",
+      "peso": 4
+    },
+    {
+      "fuente": "devops",
+      "destino": "github actions",
+      "peso": 4
+    },
+    {
+      "fuente": "angular",
+      "destino": "jenkins",
+      "peso": 4
+    },
+    {
+      "fuente": "ansible",
+      "destino": "devops",
+      "peso": 4
+    },
+    {
+      "fuente": "ansible",
+      "destino": "kubernetes",
+      "peso": 4
+    },
+    {
+      "fuente": "aws",
+      "destino": "jenkins",
+      "peso": 4
+    },
+    {
+      "fuente": "azure",
+      "destino": "spring",
+      "peso": 4
+    },
+    {
+      "fuente": "azure",
+      "destino": "spring boot",
+      "peso": 4
+    },
+    {
+      "fuente": "java",
+      "destino": "jenkins",
+      "peso": 4
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "react",
+      "peso": 4
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "spring",
+      "peso": 4
+    },
+    {
+      "fuente": "azure",
+      "destino": "kanban",
+      "peso": 4
+    },
+    {
+      "fuente": "aws",
+      "destino": "langchain",
+      "peso": 4
+    },
+    {
+      "fuente": "docker",
+      "destino": "langchain",
+      "peso": 4
+    },
+    {
+      "fuente": "aws",
+      "destino": "owasp",
+      "peso": 4
+    },
+    {
+      "fuente": "azure",
+      "destino": "ciberseguridad",
+      "peso": 4
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "owasp",
+      "peso": 4
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "terraform",
+      "peso": 4
+    },
+    {
+      "fuente": "mysql",
+      "destino": "python",
+      "peso": 4
+    },
+    {
+      "fuente": "mysql",
+      "destino": "sql",
+      "peso": 4
+    },
+    {
+      "fuente": "node.js",
+      "destino": "terraform",
+      "peso": 4
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "scikit-learn",
+      "peso": 4
+    },
+    {
+      "fuente": "python",
+      "destino": "scikit-learn",
+      "peso": 4
+    },
+    {
+      "fuente": "pytorch",
+      "destino": "scikit-learn",
+      "peso": 4
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "github actions",
+      "peso": 4
+    },
+    {
+      "fuente": "aws",
+      "destino": "computer vision",
+      "peso": 4
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "machine learning",
+      "peso": 4
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "python",
+      "peso": 4
+    },
+    {
+      "fuente": "bash",
+      "destino": "ci/cd",
+      "peso": 4
+    },
+    {
+      "fuente": "bash",
+      "destino": "docker",
+      "peso": 4
+    },
+    {
+      "fuente": "bash",
+      "destino": "prometheus",
+      "peso": 4
+    },
+    {
+      "fuente": "azure",
+      "destino": "looker",
+      "peso": 4
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "power bi",
+      "peso": 4
+    },
+    {
+      "fuente": "looker",
+      "destino": "python",
+      "peso": 4
+    },
+    {
+      "fuente": "looker",
+      "destino": "sql",
+      "peso": 4
+    },
+    {
+      "fuente": "agile",
+      "destino": "php",
+      "peso": 4
+    },
+    {
+      "fuente": "html",
+      "destino": "javascript",
+      "peso": 4
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "soc",
+      "peso": 4
+    },
+    {
+      "fuente": "siem",
+      "destino": "soc",
+      "peso": 4
+    },
+    {
+      "fuente": "aws",
+      "destino": "css",
+      "peso": 4
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "css",
+      "peso": 4
+    },
+    {
+      "fuente": "css",
+      "destino": "html",
+      "peso": 4
+    },
+    {
+      "fuente": "css",
+      "destino": "node.js",
+      "peso": 4
+    },
+    {
+      "fuente": "langchain",
+      "destino": "machine learning",
+      "peso": 4
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "tensorflow",
+      "peso": 4
+    },
+    {
+      "fuente": "python",
+      "destino": "tensorflow",
+      "peso": 4
+    },
+    {
+      "fuente": "pytorch",
+      "destino": "tensorflow",
+      "peso": 4
+    },
+    {
+      "fuente": "git",
+      "destino": "power bi",
+      "peso": 4
+    },
+    {
+      "fuente": "google cloud",
+      "destino": "python",
+      "peso": 4
+    },
+    {
+      "fuente": "numpy",
+      "destino": "pandas",
+      "peso": 4
+    },
+    {
+      "fuente": "numpy",
+      "destino": "python",
+      "peso": 4
+    },
+    {
+      "fuente": "numpy",
+      "destino": "sql",
+      "peso": 4
+    },
+    {
+      "fuente": "power bi",
+      "destino": "tableau",
+      "peso": 4
+    },
+    {
+      "fuente": "api rest",
+      "destino": "ci/cd",
+      "peso": 4
+    },
+    {
+      "fuente": "git",
+      "destino": "kanban",
+      "peso": 4
+    },
+    {
+      "fuente": "azure",
+      "destino": "oracle",
+      "peso": 4
+    },
+    {
+      "fuente": "agile",
+      "destino": "ionic",
+      "peso": 4
+    },
+    {
+      "fuente": "aws",
+      "destino": "kotlin",
+      "peso": 4
+    },
+    {
+      "fuente": "git",
+      "destino": "kotlin",
+      "peso": 4
+    },
+    {
+      "fuente": "github",
+      "destino": "ionic",
+      "peso": 4
+    },
+    {
+      "fuente": "ionic",
+      "destino": "kotlin",
+      "peso": 4
+    },
+    {
+      "fuente": "ionic",
+      "destino": "machine learning",
+      "peso": 4
+    },
+    {
+      "fuente": "ionic",
+      "destino": "microservices",
+      "peso": 4
+    },
+    {
+      "fuente": "ionic",
+      "destino": "react native",
+      "peso": 4
+    },
+    {
+      "fuente": "ionic",
+      "destino": "sql",
+      "peso": 4
+    },
+    {
+      "fuente": "ionic",
+      "destino": "typescript",
+      "peso": 4
+    },
+    {
+      "fuente": "ios",
+      "destino": "kotlin",
+      "peso": 4
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "kubernetes",
+      "peso": 4
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "react",
+      "peso": 4
+    },
+    {
+      "fuente": "aws",
+      "destino": "next.js",
+      "peso": 4
+    },
+    {
+      "fuente": "next.js",
+      "destino": "postgresql",
+      "peso": 4
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "graphql",
+      "peso": 4
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "rails",
+      "peso": 4
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "ruby",
+      "peso": 4
+    },
+    {
+      "fuente": "c#",
+      "destino": "git",
+      "peso": 4
+    },
+    {
+      "fuente": "c#",
+      "destino": "postgresql",
+      "peso": 4
+    },
+    {
+      "fuente": "c#",
+      "destino": "typescript",
+      "peso": 4
+    },
+    {
+      "fuente": "langchain",
+      "destino": "oauth",
+      "peso": 3
+    },
+    {
+      "fuente": "oauth",
+      "destino": "python",
+      "peso": 3
+    },
+    {
+      "fuente": "android",
+      "destino": "c#",
+      "peso": 3
+    },
+    {
+      "fuente": "android",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "c#",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "c#",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "devops",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "devops",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "go",
+      "destino": "scrum",
+      "peso": 3
+    },
+    {
+      "fuente": "ios",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "ios",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "java",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "javascript",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "javascript",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "node.js",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "node.js",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "php",
+      "destino": "react native",
+      "peso": 3
+    },
+    {
+      "fuente": "php",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "php",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "python",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "react",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "react native",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "react native",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "ruby",
+      "destino": "scrum",
+      "peso": 3
+    },
+    {
+      "fuente": "ruby",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "ruby",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "scrum",
+      "destino": "solid",
+      "peso": 3
+    },
+    {
+      "fuente": "scrum",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "solid",
+      "destino": "vue",
+      "peso": 3
+    },
+    {
+      "fuente": "agile",
+      "destino": "github actions",
+      "peso": 3
+    },
+    {
+      "fuente": "azure",
+      "destino": "github actions",
+      "peso": 3
+    },
+    {
+      "fuente": "azure",
+      "destino": "go",
+      "peso": 3
+    },
+    {
+      "fuente": "docker",
+      "destino": "github actions",
+      "peso": 3
+    },
+    {
+      "fuente": "github actions",
+      "destino": "gitlab",
+      "peso": 3
+    },
+    {
+      "fuente": "github actions",
+      "destino": "kubernetes",
+      "peso": 3
+    },
+    {
+      "fuente": "angular",
+      "destino": "azure",
+      "peso": 3
+    },
+    {
+      "fuente": "angular",
+      "destino": "gitlab",
+      "peso": 3
+    },
+    {
+      "fuente": "ansible",
+      "destino": "aws",
+      "peso": 3
+    },
+    {
+      "fuente": "ansible",
+      "destino": "azure",
+      "peso": 3
+    },
+    {
+      "fuente": "ansible",
+      "destino": "docker",
+      "peso": 3
+    },
+    {
+      "fuente": "ansible",
+      "destino": "gitlab",
+      "peso": 3
+    },
+    {
+      "fuente": "ansible",
+      "destino": "python",
+      "peso": 3
+    },
+    {
+      "fuente": "docker",
+      "destino": "jira",
+      "peso": 3
+    },
+    {
+      "fuente": "ionic",
+      "destino": "jenkins",
+      "peso": 3
+    },
+    {
+      "fuente": "javascript",
+      "destino": "jira",
+      "peso": 3
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "spring boot",
+      "peso": 3
+    },
+    {
+      "fuente": "kanban",
+      "destino": "sql",
+      "peso": 3
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "terraform",
+      "peso": 3
+    },
+    {
+      "fuente": "sql",
+      "destino": "terraform",
+      "peso": 3
+    },
+    {
+      "fuente": "azure",
+      "destino": "owasp",
+      "peso": 3
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "owasp",
+      "peso": 3
+    },
+    {
+      "fuente": "owasp",
+      "destino": "python",
+      "peso": 3
+    },
+    {
+      "fuente": "bash",
+      "destino": "gitlab",
+      "peso": 3
+    },
+    {
+      "fuente": "bash",
+      "destino": "sql",
+      "peso": 3
+    },
+    {
+      "fuente": "bash",
+      "destino": "terraform",
+      "peso": 3
+    },
+    {
+      "fuente": "javascript",
+      "destino": "mysql",
+      "peso": 3
+    },
+    {
+      "fuente": "mysql",
+      "destino": "node.js",
+      "peso": 3
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "scrum",
+      "peso": 3
+    },
+    {
+      "fuente": "microservices",
+      "destino": "scrum",
+      "peso": 3
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "scrum",
+      "peso": 3
+    },
+    {
+      "fuente": "devops",
+      "destino": "elasticsearch",
+      "peso": 3
+    },
+    {
+      "fuente": "elasticsearch",
+      "destino": "kubernetes",
+      "peso": 3
+    },
+    {
+      "fuente": "git",
+      "destino": "prometheus",
+      "peso": 3
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "prometheus",
+      "peso": 3
+    },
+    {
+      "fuente": "terraform",
+      "destino": "typescript",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "github actions",
+      "peso": 3
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "gitlab ci",
+      "peso": 3
+    },
+    {
+      "fuente": "devops",
+      "destino": "gitlab ci",
+      "peso": 3
+    },
+    {
+      "fuente": "github",
+      "destino": "terraform",
+      "peso": 3
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "gitlab ci",
+      "peso": 3
+    },
+    {
+      "fuente": "azure",
+      "destino": "computer vision",
+      "peso": 3
+    },
+    {
+      "fuente": "azure",
+      "destino": "pytorch",
+      "peso": 3
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "pytorch",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "prometheus",
+      "peso": 3
+    },
+    {
+      "fuente": "bash",
+      "destino": "grafana",
+      "peso": 3
+    },
+    {
+      "fuente": "prometheus",
+      "destino": "python",
+      "peso": 3
+    },
+    {
+      "fuente": "github",
+      "destino": "looker",
+      "peso": 3
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "power bi",
+      "peso": 3
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "sql",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "deep learning",
+      "peso": 3
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "deep learning",
+      "peso": 3
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "machine learning",
+      "peso": 3
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "python",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "php",
+      "peso": 3
+    },
+    {
+      "fuente": "docker",
+      "destino": "php",
+      "peso": 3
+    },
+    {
+      "fuente": "git",
+      "destino": "php",
+      "peso": 3
+    },
+    {
+      "fuente": "c#",
+      "destino": "rails",
+      "peso": 3
+    },
+    {
+      "fuente": "prometheus",
+      "destino": "sql",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "pentesting",
+      "peso": 3
+    },
+    {
+      "fuente": "azure",
+      "destino": "soc",
+      "peso": 3
+    },
+    {
+      "fuente": "ciberseguridad",
+      "destino": "pentesting",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "html",
+      "peso": 3
+    },
+    {
+      "fuente": "azure",
+      "destino": "css",
+      "peso": 3
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "html",
+      "peso": 3
+    },
+    {
+      "fuente": "css",
+      "destino": "javascript",
+      "peso": 3
+    },
+    {
+      "fuente": "css",
+      "destino": "postgresql",
+      "peso": 3
+    },
+    {
+      "fuente": "css",
+      "destino": "typescript",
+      "peso": 3
+    },
+    {
+      "fuente": "html",
+      "destino": "node.js",
+      "peso": 3
+    },
+    {
+      "fuente": "html",
+      "destino": "python",
+      "peso": 3
+    },
+    {
+      "fuente": "javascript",
+      "destino": "langchain",
+      "peso": 3
+    },
+    {
+      "fuente": "mysql",
+      "destino": "postgresql",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "google cloud",
+      "peso": 3
+    },
+    {
+      "fuente": "looker",
+      "destino": "tableau",
+      "peso": 3
+    },
+    {
+      "fuente": "pandas",
+      "destino": "power bi",
+      "peso": 3
+    },
+    {
+      "fuente": "grafana",
+      "destino": "jira",
+      "peso": 3
+    },
+    {
+      "fuente": "jira",
+      "destino": "prometheus",
+      "peso": 3
+    },
+    {
+      "fuente": "api rest",
+      "destino": "git",
+      "peso": 3
+    },
+    {
+      "fuente": "api rest",
+      "destino": "github",
+      "peso": 3
+    },
+    {
+      "fuente": "api rest",
+      "destino": "java",
+      "peso": 3
+    },
+    {
+      "fuente": "api rest",
+      "destino": "spring",
+      "peso": 3
+    },
+    {
+      "fuente": "api rest",
+      "destino": "sql",
+      "peso": 3
+    },
+    {
+      "fuente": "oracle",
+      "destino": "spring",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "dynamodb",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "express",
+      "peso": 3
+    },
+    {
+      "fuente": "android",
+      "destino": "grafana",
+      "peso": 3
+    },
+    {
+      "fuente": "android",
+      "destino": "kanban",
+      "peso": 3
+    },
+    {
+      "fuente": "api rest",
+      "destino": "devops",
+      "peso": 3
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "jira",
+      "peso": 3
+    },
+    {
+      "fuente": "github",
+      "destino": "jira",
+      "peso": 3
+    },
+    {
+      "fuente": "google cloud",
+      "destino": "kubernetes",
+      "peso": 3
+    },
+    {
+      "fuente": "html",
+      "destino": "sql",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "kanban",
+      "peso": 3
+    },
+    {
+      "fuente": "css",
+      "destino": "devops",
+      "peso": 3
+    },
+    {
+      "fuente": "devops",
+      "destino": "html",
+      "peso": 3
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "numpy",
+      "peso": 3
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "pandas",
+      "peso": 3
+    },
+    {
+      "fuente": "numpy",
+      "destino": "pytorch",
+      "peso": 3
+    },
+    {
+      "fuente": "numpy",
+      "destino": "scikit-learn",
+      "peso": 3
+    },
+    {
+      "fuente": "numpy",
+      "destino": "tensorflow",
+      "peso": 3
+    },
+    {
+      "fuente": "pandas",
+      "destino": "pytorch",
+      "peso": 3
+    },
+    {
+      "fuente": "pandas",
+      "destino": "scikit-learn",
+      "peso": 3
+    },
+    {
+      "fuente": "pandas",
+      "destino": "tensorflow",
+      "peso": 3
+    },
+    {
+      "fuente": "pytorch",
+      "destino": "sql",
+      "peso": 3
+    },
+    {
+      "fuente": "scikit-learn",
+      "destino": "sql",
+      "peso": 3
+    },
+    {
+      "fuente": "scikit-learn",
+      "destino": "tensorflow",
+      "peso": 3
+    },
+    {
+      "fuente": "sql",
+      "destino": "tensorflow",
+      "peso": 3
+    },
+    {
+      "fuente": "agile",
+      "destino": "kotlin",
+      "peso": 3
+    },
+    {
+      "fuente": "ionic",
+      "destino": "ios",
+      "peso": 3
+    },
+    {
+      "fuente": "ionic",
+      "destino": "postgresql",
+      "peso": 3
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "microservices",
+      "peso": 3
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "react native",
+      "peso": 3
+    },
+    {
+      "fuente": "azure",
+      "destino": "microservices",
+      "peso": 3
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "power bi",
+      "peso": 3
+    },
+    {
+      "fuente": "oracle",
+      "destino": "power bi",
+      "peso": 3
+    },
+    {
+      "fuente": "agile",
+      "destino": "terraform",
+      "peso": 3
+    },
+    {
+      "fuente": "scrum",
+      "destino": "typescript",
+      "peso": 3
+    },
+    {
+      "fuente": "c#",
+      "destino": "django",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "tailwind",
+      "peso": 3
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "tailwind",
+      "peso": 3
+    },
+    {
+      "fuente": "git",
+      "destino": "next.js",
+      "peso": 3
+    },
+    {
+      "fuente": "next.js",
+      "destino": "tailwind",
+      "peso": 3
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "tailwind",
+      "peso": 3
+    },
+    {
+      "fuente": "react",
+      "destino": "tailwind",
+      "peso": 3
+    },
+    {
+      "fuente": "tailwind",
+      "destino": "typescript",
+      "peso": 3
+    },
+    {
+      "fuente": "datadog",
+      "destino": "docker",
+      "peso": 3
+    },
+    {
+      "fuente": "datadog",
+      "destino": "grafana",
+      "peso": 3
+    },
+    {
+      "fuente": "datadog",
+      "destino": "kubernetes",
+      "peso": 3
+    },
+    {
+      "fuente": "github",
+      "destino": "graphql",
+      "peso": 3
+    },
+    {
+      "fuente": "graphql",
+      "destino": "react",
+      "peso": 3
+    },
+    {
+      "fuente": "graphql",
+      "destino": "typescript",
+      "peso": 3
+    },
+    {
+      "fuente": "css",
+      "destino": "git",
+      "peso": 3
+    },
+    {
+      "fuente": "git",
+      "destino": "html",
+      "peso": 3
+    },
+    {
+      "fuente": "aws",
+      "destino": "nlp",
+      "peso": 3
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "nlp",
+      "peso": 3
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "nlp",
+      "peso": 3
+    },
+    {
+      "fuente": "nlp",
+      "destino": "python",
+      "peso": 3
+    },
+    {
+      "fuente": "nlp",
+      "destino": "sql",
+      "peso": 3
+    },
+    {
+      "fuente": "php",
+      "destino": "postgresql",
+      "peso": 3
+    },
+    {
+      "fuente": "php",
+      "destino": "spring",
+      "peso": 3
+    },
+    {
+      "fuente": "php",
+      "destino": "spring boot",
+      "peso": 3
+    },
+    {
+      "fuente": "microservices",
+      "destino": "rails",
+      "peso": 3
+    },
+    {
+      "fuente": "oracle",
+      "destino": "rails",
+      "peso": 3
+    },
+    {
+      "fuente": "oracle",
+      "destino": "ruby",
+      "peso": 3
+    },
+    {
+      "fuente": "postgresql",
+      "destino": "rails",
+      "peso": 3
+    },
+    {
+      "fuente": "agile",
+      "destino": "gitlab",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "github actions",
+      "peso": 2
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "go",
+      "peso": 2
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "java",
+      "peso": 2
+    },
+    {
+      "fuente": "angular",
+      "destino": "jira",
+      "peso": 2
+    },
+    {
+      "fuente": "ansible",
+      "destino": "git",
+      "peso": 2
+    },
+    {
+      "fuente": "ansible",
+      "destino": "jenkins",
+      "peso": 2
+    },
+    {
+      "fuente": "ansible",
+      "destino": "jira",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "jenkins",
+      "peso": 2
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "javascript",
+      "peso": 2
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "go",
+      "destino": "ionic",
+      "peso": 2
+    },
+    {
+      "fuente": "java",
+      "destino": "jira",
+      "peso": 2
+    },
+    {
+      "fuente": "javascript",
+      "destino": "jenkins",
+      "peso": 2
+    },
+    {
+      "fuente": "jira",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "django",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "langchain",
+      "peso": 2
+    },
+    {
+      "fuente": "django",
+      "destino": "langchain",
+      "peso": 2
+    },
+    {
+      "fuente": "langchain",
+      "destino": "postgresql",
+      "peso": 2
+    },
+    {
+      "fuente": "java",
+      "destino": "owasp",
+      "peso": 2
+    },
+    {
+      "fuente": "bash",
+      "destino": "git",
+      "peso": 2
+    },
+    {
+      "fuente": "bash",
+      "destino": "jira",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "mysql",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "mysql",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "terraform",
+      "peso": 2
+    },
+    {
+      "fuente": "javascript",
+      "destino": "terraform",
+      "peso": 2
+    },
+    {
+      "fuente": "jira",
+      "destino": "terraform",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "mongodb",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "mongodb",
+      "peso": 2
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "scrum",
+      "peso": 2
+    },
+    {
+      "fuente": "mongodb",
+      "destino": "postgresql",
+      "peso": 2
+    },
+    {
+      "fuente": "mongodb",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "scikit-learn",
+      "peso": 2
+    },
+    {
+      "fuente": "flutter",
+      "destino": "oracle",
+      "peso": 2
+    },
+    {
+      "fuente": "mysql",
+      "destino": "oracle",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "elasticsearch",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "elasticsearch",
+      "peso": 2
+    },
+    {
+      "fuente": "elasticsearch",
+      "destino": "gitlab",
+      "peso": 2
+    },
+    {
+      "fuente": "elasticsearch",
+      "destino": "grafana",
+      "peso": 2
+    },
+    {
+      "fuente": "elasticsearch",
+      "destino": "prometheus",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "grafana",
+      "peso": 2
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "grafana",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "owasp",
+      "peso": 2
+    },
+    {
+      "fuente": "ansible",
+      "destino": "ci/cd",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "gitlab ci",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "gitlab ci",
+      "peso": 2
+    },
+    {
+      "fuente": "github",
+      "destino": "gitlab ci",
+      "peso": 2
+    },
+    {
+      "fuente": "github actions",
+      "destino": "gitlab ci",
+      "peso": 2
+    },
+    {
+      "fuente": "github actions",
+      "destino": "jenkins",
+      "peso": 2
+    },
+    {
+      "fuente": "github actions",
+      "destino": "terraform",
+      "peso": 2
+    },
+    {
+      "fuente": "gitlab ci",
+      "destino": "kubernetes",
+      "peso": 2
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "terraform",
+      "peso": 2
+    },
+    {
+      "fuente": "javascript",
+      "destino": "next.js",
+      "peso": 2
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "next.js",
+      "peso": 2
+    },
+    {
+      "fuente": "next.js",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "grafana",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "bash",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "prometheus",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "mlops",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "mlops",
+      "peso": 2
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "mlops",
+      "peso": 2
+    },
+    {
+      "fuente": "mlops",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "mlops",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "looker",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "looker",
+      "peso": 2
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "looker",
+      "peso": 2
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "looker",
+      "peso": 2
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "power bi",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "deep learning",
+      "peso": 2
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "git",
+      "peso": 2
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "git",
+      "peso": 2
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "pytorch",
+      "peso": 2
+    },
+    {
+      "fuente": "html",
+      "destino": "kubernetes",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "tdd",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "tdd",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "pentesting",
+      "peso": 2
+    },
+    {
+      "fuente": "java",
+      "destino": "pentesting",
+      "peso": 2
+    },
+    {
+      "fuente": "owasp",
+      "destino": "pentesting",
+      "peso": 2
+    },
+    {
+      "fuente": "pentesting",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "python",
+      "destino": "siem",
+      "peso": 2
+    },
+    {
+      "fuente": "python",
+      "destino": "soc",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "fastapi",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "flask",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "tensorflow",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "html",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "mysql",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "computer vision",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "deep learning",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "langchain",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "pytorch",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "tensorflow",
+      "peso": 2
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "docker",
+      "peso": 2
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "javascript",
+      "peso": 2
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "postgresql",
+      "peso": 2
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "computer vision",
+      "destino": "typescript",
+      "peso": 2
+    },
+    {
+      "fuente": "css",
+      "destino": "django",
+      "peso": 2
+    },
+    {
+      "fuente": "css",
+      "destino": "docker",
+      "peso": 2
+    },
+    {
+      "fuente": "css",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "css",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "docker",
+      "peso": 2
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "javascript",
+      "peso": 2
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "postgresql",
+      "peso": 2
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "deep learning",
+      "destino": "typescript",
+      "peso": 2
+    },
+    {
+      "fuente": "django",
+      "destino": "html",
+      "peso": 2
+    },
+    {
+      "fuente": "django",
+      "destino": "mysql",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "html",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "mysql",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "pytorch",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "tensorflow",
+      "peso": 2
+    },
+    {
+      "fuente": "fastapi",
+      "destino": "flask",
+      "peso": 2
+    },
+    {
+      "fuente": "fastapi",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "fastapi",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "flask",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "flask",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "html",
+      "destino": "postgresql",
+      "peso": 2
+    },
+    {
+      "fuente": "html",
+      "destino": "typescript",
+      "peso": 2
+    },
+    {
+      "fuente": "langchain",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "langchain",
+      "destino": "typescript",
+      "peso": 2
+    },
+    {
+      "fuente": "mysql",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "ansible",
+      "destino": "bash",
+      "peso": 2
+    },
+    {
+      "fuente": "ansible",
+      "destino": "prometheus",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "looker",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "numpy",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "pandas",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "tableau",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "tableau",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "pandas",
+      "peso": 2
+    },
+    {
+      "fuente": "google cloud",
+      "destino": "numpy",
+      "peso": 2
+    },
+    {
+      "fuente": "google cloud",
+      "destino": "pandas",
+      "peso": 2
+    },
+    {
+      "fuente": "google cloud",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "numpy",
+      "destino": "power bi",
+      "peso": 2
+    },
+    {
+      "fuente": "python",
+      "destino": "tableau",
+      "peso": 2
+    },
+    {
+      "fuente": "sql",
+      "destino": "tableau",
+      "peso": 2
+    },
+    {
+      "fuente": "bash",
+      "destino": "elasticsearch",
+      "peso": 2
+    },
+    {
+      "fuente": "elasticsearch",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "scrum",
+      "peso": 2
+    },
+    {
+      "fuente": "prometheus",
+      "destino": "scrum",
+      "peso": 2
+    },
+    {
+      "fuente": "airflow",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "github actions",
+      "destino": "scrum",
+      "peso": 2
+    },
+    {
+      "fuente": "angular",
+      "destino": "api rest",
+      "peso": 2
+    },
+    {
+      "fuente": "api rest",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "dynamodb",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "express",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "express",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "agile",
+      "destino": "api rest",
+      "peso": 2
+    },
+    {
+      "fuente": "android",
+      "destino": "jira",
+      "peso": 2
+    },
+    {
+      "fuente": "api rest",
+      "destino": "ios",
+      "peso": 2
+    },
+    {
+      "fuente": "ios",
+      "destino": "kanban",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "google cloud",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "google cloud",
+      "peso": 2
+    },
+    {
+      "fuente": "gitlab",
+      "destino": "google cloud",
+      "peso": 2
+    },
+    {
+      "fuente": "api rest",
+      "destino": "docker",
+      "peso": 2
+    },
+    {
+      "fuente": "api rest",
+      "destino": "html",
+      "peso": 2
+    },
+    {
+      "fuente": "jquery",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "solid",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "solid",
+      "peso": 2
+    },
+    {
+      "fuente": "solid",
+      "destino": "spring",
+      "peso": 2
+    },
+    {
+      "fuente": "solid",
+      "destino": "spring boot",
+      "peso": 2
+    },
+    {
+      "fuente": "agile",
+      "destino": "tableau",
+      "peso": 2
+    },
+    {
+      "fuente": "jira",
+      "destino": "power bi",
+      "peso": 2
+    },
+    {
+      "fuente": "power bi",
+      "destino": "scrum",
+      "peso": 2
+    },
+    {
+      "fuente": "scrum",
+      "destino": "tableau",
+      "peso": 2
+    },
+    {
+      "fuente": "api rest",
+      "destino": "aws",
+      "peso": 2
+    },
+    {
+      "fuente": "api rest",
+      "destino": "javascript",
+      "peso": 2
+    },
+    {
+      "fuente": "api rest",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "api rest",
+      "destino": "postgresql",
+      "peso": 2
+    },
+    {
+      "fuente": "api rest",
+      "destino": "spring boot",
+      "peso": 2
+    },
+    {
+      "fuente": "css",
+      "destino": "java",
+      "peso": 2
+    },
+    {
+      "fuente": "dynamodb",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "jira",
+      "destino": "machine learning",
+      "peso": 2
+    },
+    {
+      "fuente": "google cloud",
+      "destino": "machine learning",
+      "peso": 2
+    },
+    {
+      "fuente": "oracle",
+      "destino": "terraform",
+      "peso": 2
+    },
+    {
+      "fuente": "heroku",
+      "destino": "javascript",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "kotlin",
+      "peso": 2
+    },
+    {
+      "fuente": "github",
+      "destino": "kotlin",
+      "peso": 2
+    },
+    {
+      "fuente": "javascript",
+      "destino": "kotlin",
+      "peso": 2
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "machine learning",
+      "peso": 2
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "postgresql",
+      "peso": 2
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "python",
+      "peso": 2
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "kotlin",
+      "destino": "typescript",
+      "peso": 2
+    },
+    {
+      "fuente": "aws",
+      "destino": "kafka",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "kafka",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "kafka",
+      "peso": 2
+    },
+    {
+      "fuente": "github",
+      "destino": "kafka",
+      "peso": 2
+    },
+    {
+      "fuente": "kafka",
+      "destino": "kubernetes",
+      "peso": 2
+    },
+    {
+      "fuente": "kafka",
+      "destino": "microservices",
+      "peso": 2
+    },
+    {
+      "fuente": "kafka",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "kafka",
+      "destino": "postgresql",
+      "peso": 2
+    },
+    {
+      "fuente": "kafka",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "kafka",
+      "destino": "typescript",
+      "peso": 2
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "power bi",
+      "peso": 2
+    },
+    {
+      "fuente": "node.js",
+      "destino": "power bi",
+      "peso": 2
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "scrum",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "phoenix",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "phoenix",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "soc",
+      "peso": 2
+    },
+    {
+      "fuente": "phoenix",
+      "destino": "soc",
+      "peso": 2
+    },
+    {
+      "fuente": "phoenix",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "soc",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "tailwind",
+      "peso": 2
+    },
+    {
+      "fuente": "android",
+      "destino": "datadog",
+      "peso": 2
+    },
+    {
+      "fuente": "android",
+      "destino": "jenkins",
+      "peso": 2
+    },
+    {
+      "fuente": "angular",
+      "destino": "datadog",
+      "peso": 2
+    },
+    {
+      "fuente": "angular",
+      "destino": "grafana",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "datadog",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "flutter",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "ionic",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "java",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "jenkins",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "kotlin",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "react native",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "spring",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "spring boot",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "swift",
+      "peso": 2
+    },
+    {
+      "fuente": "flutter",
+      "destino": "grafana",
+      "peso": 2
+    },
+    {
+      "fuente": "flutter",
+      "destino": "jenkins",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "ionic",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "java",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "jenkins",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "kotlin",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "react native",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "spring",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "spring boot",
+      "peso": 2
+    },
+    {
+      "fuente": "grafana",
+      "destino": "swift",
+      "peso": 2
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "kotlin",
+      "peso": 2
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "react native",
+      "peso": 2
+    },
+    {
+      "fuente": "jenkins",
+      "destino": "swift",
+      "peso": 2
+    },
+    {
+      "fuente": "css",
+      "destino": "github",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "graphql",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "next.js",
+      "peso": 2
+    },
+    {
+      "fuente": "github",
+      "destino": "next.js",
+      "peso": 2
+    },
+    {
+      "fuente": "graphql",
+      "destino": "kubernetes",
+      "peso": 2
+    },
+    {
+      "fuente": "graphql",
+      "destino": "react native",
+      "peso": 2
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "next.js",
+      "peso": 2
+    },
+    {
+      "fuente": "microservices",
+      "destino": "next.js",
+      "peso": 2
+    },
+    {
+      "fuente": "microservices",
+      "destino": "terraform",
+      "peso": 2
+    },
+    {
+      "fuente": "nestjs",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "nestjs",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "nestjs",
+      "destino": "react native",
+      "peso": 2
+    },
+    {
+      "fuente": "next.js",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "react",
+      "destino": "terraform",
+      "peso": 2
+    },
+    {
+      "fuente": "rails",
+      "destino": "react native",
+      "peso": 2
+    },
+    {
+      "fuente": "css",
+      "destino": "kanban",
+      "peso": 2
+    },
+    {
+      "fuente": "css",
+      "destino": "scrum",
+      "peso": 2
+    },
+    {
+      "fuente": "css",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "github",
+      "destino": "html",
+      "peso": 2
+    },
+    {
+      "fuente": "kanban",
+      "destino": "typescript",
+      "peso": 2
+    },
+    {
+      "fuente": "android",
+      "destino": "azure",
+      "peso": 2
+    },
+    {
+      "fuente": "java",
+      "destino": "kanban",
+      "peso": 2
+    },
+    {
+      "fuente": "agile",
+      "destino": "pentesting",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "pentesting",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "pentesting",
+      "peso": 2
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "pentesting",
+      "peso": 2
+    },
+    {
+      "fuente": "agile",
+      "destino": "owasp",
+      "peso": 2
+    },
+    {
+      "fuente": "datadog",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "android",
+      "destino": "graphql",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "graphql",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "graphql",
+      "peso": 2
+    },
+    {
+      "fuente": "angular",
+      "destino": "graphql",
+      "peso": 2
+    },
+    {
+      "fuente": "flutter",
+      "destino": "php",
+      "peso": 2
+    },
+    {
+      "fuente": "flutter",
+      "destino": "scrum",
+      "peso": 2
+    },
+    {
+      "fuente": "scrum",
+      "destino": "spring",
+      "peso": 2
+    },
+    {
+      "fuente": "scrum",
+      "destino": "spring boot",
+      "peso": 2
+    },
+    {
+      "fuente": "html",
+      "destino": "oracle",
+      "peso": 2
+    },
+    {
+      "fuente": "flutter",
+      "destino": "rails",
+      "peso": 2
+    },
+    {
+      "fuente": "flutter",
+      "destino": "ruby",
+      "peso": 2
+    },
+    {
+      "fuente": "ios",
+      "destino": "rails",
+      "peso": 2
+    },
+    {
+      "fuente": "azure",
+      "destino": "ruby",
+      "peso": 2
+    },
+    {
+      "fuente": "angular",
+      "destino": "power bi",
+      "peso": 2
+    },
+    {
+      "fuente": "agile",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "devops",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "django",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "docker",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "git",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "github",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "java",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "javascript",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "microservices",
+      "destino": "nlp",
+      "peso": 2
+    },
+    {
+      "fuente": "nlp",
+      "destino": "node.js",
+      "peso": 2
+    },
+    {
+      "fuente": "nlp",
+      "destino": "postgresql",
+      "peso": 2
+    },
+    {
+      "fuente": "nlp",
+      "destino": "react",
+      "peso": 2
+    },
+    {
+      "fuente": "nlp",
+      "destino": "typescript",
+      "peso": 2
+    },
+    {
+      "fuente": "c#",
+      "destino": "flutter",
+      "peso": 2
+    },
+    {
+      "fuente": "c#",
+      "destino": "spring",
+      "peso": 2
+    },
+    {
+      "fuente": "c#",
+      "destino": "spring boot",
+      "peso": 2
+    },
+    {
+      "fuente": "flutter",
+      "destino": "go",
+      "peso": 2
+    },
+    {
+      "fuente": "go",
+      "destino": "rails",
+      "peso": 2
+    },
+    {
+      "fuente": "java",
+      "destino": "rails",
+      "peso": 2
+    },
+    {
+      "fuente": "ruby",
+      "destino": "spring",
+      "peso": 2
+    },
+    {
+      "fuente": "ruby",
+      "destino": "spring boot",
+      "peso": 2
+    },
+    {
+      "fuente": "ci/cd",
+      "destino": "php",
+      "peso": 2
+    },
+    {
+      "fuente": "django",
+      "destino": "go",
+      "peso": 2
+    },
+    {
+      "fuente": "django",
+      "destino": "php",
+      "peso": 2
+    },
+    {
+      "fuente": "github",
+      "destino": "php",
+      "peso": 2
+    },
+    {
+      "fuente": "kubernetes",
+      "destino": "php",
+      "peso": 2
+    },
+    {
+      "fuente": "machine learning",
+      "destino": "php",
+      "peso": 2
+    },
+    {
+      "fuente": "microservices",
+      "destino": "php",
+      "peso": 2
+    },
+    {
+      "fuente": "php",
+      "destino": "sql",
+      "peso": 2
+    },
+    {
+      "fuente": "php",
+      "destino": "typescript",
+      "peso": 2
+    },
+    {
+      "fuente": "oracle",
+      "destino": "spring boot",
+      "peso": 2
+    }
+  ],
+  "meta": {
+    "total_ofertas": 583,
+    "ofertas_validas": 298,
+    "min_peso": 2,
+    "total_nodos": 91,
+    "total_aristas": 1197
+  }
+}
