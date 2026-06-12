@@ -1,0 +1,8 @@
+services:
+  skillmap:
+    build: .
+    volumes:
+      - ./output:/app/output
+    command: >
+      --url "https://co.computrabajo.com/trabajo-de-ingeniero-de-sistemas#9C23B396834A6AF261373E686DCF3405"
+      --tiempo 60

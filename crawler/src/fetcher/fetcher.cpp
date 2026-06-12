@@ -6,7 +6,8 @@ FetchResult Fetcher::fetch(const std::string& url) const {
 
     cpr::Response r = cpr::Get(
         cpr::Url{url},
-        cpr::Timeout{5000}
+        cpr::Timeout{5000},
+        cpr::Header{{"User-Agent", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"}}
     );
 
     if (r.error) {
