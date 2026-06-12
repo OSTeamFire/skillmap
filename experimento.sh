@@ -1,8 +1,3 @@
-#!/bin/bash
-# experimento.sh — 12 corridas para análisis de escalabilidad de workers
-# Uso: bash experimento.sh  (desde la raíz del proyecto)
-# Requiere: imagen ya construida con "docker compose build"
-
 SEED_URL="https://www.getonbrd.com/empleos-ingeniero-de-sistemas"
 TIEMPO=30
 REPETICIONES=3
